@@ -1,0 +1,1001 @@
+Prescription_ID,Doctor_Name,Specialty,City,Patient_Age,Gender,Medicine_Name,Therapeutic_Class,Prescription_Date,Quantity
+1,Dr. Singh,Cardiologist,Mumbai,29,Male,Metformin 500mg,Anti-Diabetic,08-09-2023,1
+2,Dr. Singh,Orthopedic,Mumbai,4,Male,Azithromycin 500mg,Antibiotic,02-02-2023,2
+3,Dr. Verma,Orthopedic,Chennai,26,Female,Paracetamol 500mg,Analgesic,28-07-2024,2
+4,Dr. Khan,Orthopedic,Bengaluru,90,Female,Paracetamol 500mg,Analgesic,13-06-2023,3
+5,Dr. Iyer,Pediatrician,Delhi,12,Female,Omeprazole 20mg,Gastro,15-04-2023,1
+6,Dr. Iyer,General Physician,Chennai,59,Male,Metformin 500mg,Anti-Diabetic,14-02-2023,4
+7,Dr. Sharma,Orthopedic,Bengaluru,25,Male,Omeprazole 20mg,Gastro,14-08-2024,1
+8,Dr. Singh,Pediatrician,Bengaluru,13,Female,Amoxicillin 250mg,Antibiotic,27-08-2023,3
+9,Dr. Khan,General Physician,Delhi,27,Female,Omeprazole 20mg,Gastro,30-12-2023,1
+10,Dr. Gupta,Pediatrician,Chennai,60,Female,Cetirizine 10mg,Anti-Allergic,17-06-2023,3
+11,Dr. Singh,Orthopedic,Delhi,30,Male,Omeprazole 20mg,Gastro,27-02-2023,3
+12,Dr. Khan,General Physician,Mumbai,41,Male,Cetirizine 10mg,Anti-Allergic,03-08-2024,4
+13,Dr. Khan,Dermatologist,Delhi,32,Female,Metformin 500mg,Anti-Diabetic,23-05-2023,5
+14,Dr. Khan,Orthopedic,Hyderabad,18,Female,Omeprazole 20mg,Gastro,13-08-2023,1
+15,Dr. Sharma,Cardiologist,Delhi,77,Male,Atorvastatin 10mg,Cardiac,08-03-2024,4
+16,Dr. Khan,Orthopedic,Hyderabad,2,Male,Metformin 500mg,Anti-Diabetic,20-07-2024,5
+17,Dr. Iyer,General Physician,Mumbai,21,Female,Metformin 500mg,Anti-Diabetic,21-03-2024,1
+18,Dr. Singh,General Physician,Chennai,14,Female,Atorvastatin 10mg,Cardiac,03-06-2024,5
+19,Dr. Gupta,Pediatrician,Delhi,70,Male,Omeprazole 20mg,Gastro,15-06-2023,5
+20,Dr. Iyer,Dermatologist,Mumbai,40,Male,Amoxicillin 250mg,Antibiotic,07-01-2024,1
+21,Dr. Verma,Orthopedic,Mumbai,9,Male,Amoxicillin 250mg,Antibiotic,12-05-2024,2
+22,Dr. Singh,Dermatologist,Chennai,68,Female,Atorvastatin 10mg,Cardiac,29-09-2023,2
+23,Dr. Gupta,Pediatrician,Kolkata,86,Female,Metformin 500mg,Anti-Diabetic,13-02-2024,4
+24,Dr. Gupta,Dermatologist,Mumbai,9,Female,Cetirizine 10mg,Anti-Allergic,19-08-2023,1
+25,Dr. Gupta,Orthopedic,Delhi,10,Male,Cetirizine 10mg,Anti-Allergic,08-01-2023,2
+26,Dr. Sharma,Cardiologist,Bengaluru,31,Female,Amoxicillin 250mg,Antibiotic,10-06-2024,4
+27,Dr. Verma,Orthopedic,Delhi,61,Female,Losartan 50mg,Cardiac,06-09-2023,2
+28,Dr. Sharma,Cardiologist,Kolkata,55,Female,Azithromycin 500mg,Antibiotic,29-12-2023,4
+29,Dr. Singh,Cardiologist,Kolkata,52,Female,Amoxicillin 250mg,Antibiotic,04-03-2023,1
+30,Dr. Verma,Pediatrician,Delhi,55,Male,Losartan 50mg,Cardiac,24-05-2023,3
+31,Dr. Khan,Pediatrician,Mumbai,13,Male,Losartan 50mg,Cardiac,17-07-2024,5
+32,Dr. Sharma,Cardiologist,Delhi,63,Female,Atorvastatin 10mg,Cardiac,21-02-2024,2
+33,Dr. Khan,Cardiologist,Delhi,50,Female,Azithromycin 500mg,Antibiotic,03-01-2023,4
+34,Dr. Iyer,Dermatologist,Kolkata,25,Female,Losartan 50mg,Cardiac,08-06-2023,2
+35,Dr. Sharma,Orthopedic,Kolkata,8,Male,Paracetamol 500mg,Analgesic,18-11-2023,5
+36,Dr. Khan,Orthopedic,Chennai,66,Male,Atorvastatin 10mg,Cardiac,28-02-2023,2
+37,Dr. Sharma,Orthopedic,Mumbai,16,Male,Cetirizine 10mg,Anti-Allergic,18-02-2024,5
+38,Dr. Gupta,Cardiologist,Chennai,85,Female,Amoxicillin 250mg,Antibiotic,05-03-2024,3
+39,Dr. Verma,General Physician,Delhi,17,Female,Metformin 500mg,Anti-Diabetic,10-02-2024,4
+40,Dr. Iyer,Cardiologist,Mumbai,13,Male,Losartan 50mg,Cardiac,30-07-2024,5
+41,Dr. Verma,Orthopedic,Bengaluru,9,Male,Atorvastatin 10mg,Cardiac,24-12-2023,3
+42,Dr. Iyer,Pediatrician,Hyderabad,2,Female,Metformin 500mg,Anti-Diabetic,25-06-2024,1
+43,Dr. Verma,General Physician,Mumbai,20,Female,Amoxicillin 250mg,Antibiotic,20-07-2024,3
+44,Dr. Gupta,Pediatrician,Kolkata,88,Female,Omeprazole 20mg,Gastro,28-07-2023,5
+45,Dr. Khan,General Physician,Mumbai,36,Male,Amoxicillin 250mg,Antibiotic,09-03-2024,1
+46,Dr. Iyer,Pediatrician,Kolkata,57,Female,Metformin 500mg,Anti-Diabetic,15-06-2023,5
+47,Dr. Sharma,Cardiologist,Mumbai,5,Female,Atorvastatin 10mg,Cardiac,12-07-2024,5
+48,Dr. Gupta,Pediatrician,Hyderabad,40,Female,Atorvastatin 10mg,Cardiac,12-02-2023,1
+49,Dr. Iyer,Pediatrician,Kolkata,46,Female,Cetirizine 10mg,Anti-Allergic,16-04-2023,5
+50,Dr. Singh,Pediatrician,Delhi,53,Male,Atorvastatin 10mg,Cardiac,01-07-2023,2
+51,Dr. Singh,General Physician,Hyderabad,21,Male,Cetirizine 10mg,Anti-Allergic,01-10-2023,4
+52,Dr. Sharma,Dermatologist,Delhi,45,Female,Cetirizine 10mg,Anti-Allergic,16-04-2024,2
+53,Dr. Verma,Cardiologist,Kolkata,43,Female,Cetirizine 10mg,Anti-Allergic,13-02-2024,1
+54,Dr. Iyer,General Physician,Kolkata,43,Male,Azithromycin 500mg,Antibiotic,03-07-2024,1
+55,Dr. Iyer,Pediatrician,Chennai,14,Female,Metformin 500mg,Anti-Diabetic,09-02-2023,3
+56,Dr. Singh,General Physician,Hyderabad,74,Male,Amoxicillin 250mg,Antibiotic,30-01-2024,3
+57,Dr. Sharma,Dermatologist,Mumbai,56,Male,Cetirizine 10mg,Anti-Allergic,08-01-2024,3
+58,Dr. Gupta,General Physician,Kolkata,65,Female,Amoxicillin 250mg,Antibiotic,04-11-2023,4
+59,Dr. Iyer,Dermatologist,Kolkata,17,Male,Metformin 500mg,Anti-Diabetic,21-07-2024,4
+60,Dr. Singh,Dermatologist,Kolkata,39,Female,Atorvastatin 10mg,Cardiac,05-08-2024,5
+61,Dr. Sharma,General Physician,Bengaluru,75,Female,Cetirizine 10mg,Anti-Allergic,16-03-2024,4
+62,Dr. Khan,Dermatologist,Kolkata,61,Male,Cetirizine 10mg,Anti-Allergic,07-06-2024,1
+63,Dr. Iyer,Orthopedic,Kolkata,31,Female,Omeprazole 20mg,Gastro,06-04-2023,2
+64,Dr. Verma,Pediatrician,Mumbai,61,Male,Paracetamol 500mg,Analgesic,08-09-2023,4
+65,Dr. Khan,Orthopedic,Delhi,52,Male,Azithromycin 500mg,Antibiotic,21-05-2024,2
+66,Dr. Singh,Cardiologist,Mumbai,23,Female,Azithromycin 500mg,Antibiotic,13-08-2023,1
+67,Dr. Gupta,Pediatrician,Mumbai,60,Female,Losartan 50mg,Cardiac,17-05-2023,4
+68,Dr. Gupta,Orthopedic,Hyderabad,61,Female,Losartan 50mg,Cardiac,12-06-2023,3
+69,Dr. Verma,General Physician,Chennai,36,Female,Losartan 50mg,Cardiac,02-09-2023,1
+70,Dr. Singh,General Physician,Delhi,41,Male,Metformin 500mg,Anti-Diabetic,10-12-2023,2
+71,Dr. Verma,Pediatrician,Hyderabad,9,Female,Atorvastatin 10mg,Cardiac,08-08-2023,4
+72,Dr. Iyer,Orthopedic,Hyderabad,27,Female,Azithromycin 500mg,Antibiotic,05-03-2023,4
+73,Dr. Gupta,Cardiologist,Chennai,1,Female,Azithromycin 500mg,Antibiotic,03-05-2024,3
+74,Dr. Khan,Dermatologist,Chennai,29,Female,Cetirizine 10mg,Anti-Allergic,14-05-2024,4
+75,Dr. Khan,Cardiologist,Hyderabad,22,Female,Omeprazole 20mg,Gastro,19-02-2024,2
+76,Dr. Gupta,Orthopedic,Mumbai,85,Male,Azithromycin 500mg,Antibiotic,31-07-2024,1
+77,Dr. Singh,Dermatologist,Delhi,7,Female,Losartan 50mg,Cardiac,06-07-2023,4
+78,Dr. Iyer,Pediatrician,Hyderabad,49,Female,Omeprazole 20mg,Gastro,12-12-2023,4
+79,Dr. Iyer,Cardiologist,Hyderabad,7,Female,Paracetamol 500mg,Analgesic,06-07-2024,2
+80,Dr. Singh,Cardiologist,Kolkata,32,Male,Paracetamol 500mg,Analgesic,01-02-2023,1
+81,Dr. Gupta,Pediatrician,Delhi,86,Male,Atorvastatin 10mg,Cardiac,29-04-2024,5
+82,Dr. Verma,Dermatologist,Kolkata,22,Male,Metformin 500mg,Anti-Diabetic,13-01-2024,2
+83,Dr. Iyer,Cardiologist,Chennai,74,Female,Paracetamol 500mg,Analgesic,16-11-2023,4
+84,Dr. Singh,Pediatrician,Mumbai,90,Female,Cetirizine 10mg,Anti-Allergic,15-04-2023,5
+85,Dr. Sharma,Orthopedic,Mumbai,55,Female,Omeprazole 20mg,Gastro,29-06-2024,1
+86,Dr. Gupta,General Physician,Mumbai,14,Female,Azithromycin 500mg,Antibiotic,16-05-2024,3
+87,Dr. Singh,Dermatologist,Kolkata,23,Female,Atorvastatin 10mg,Cardiac,21-03-2024,5
+88,Dr. Gupta,Dermatologist,Hyderabad,42,Male,Azithromycin 500mg,Antibiotic,02-10-2023,1
+89,Dr. Iyer,Dermatologist,Delhi,79,Female,Losartan 50mg,Cardiac,06-08-2024,3
+90,Dr. Sharma,Dermatologist,Bengaluru,28,Female,Atorvastatin 10mg,Cardiac,14-05-2024,3
+91,Dr. Iyer,General Physician,Chennai,2,Male,Metformin 500mg,Anti-Diabetic,23-07-2024,1
+92,Dr. Verma,Dermatologist,Hyderabad,83,Female,Cetirizine 10mg,Anti-Allergic,02-05-2024,4
+93,Dr. Sharma,Cardiologist,Bengaluru,89,Male,Cetirizine 10mg,Anti-Allergic,19-02-2024,3
+94,Dr. Singh,Orthopedic,Bengaluru,68,Female,Losartan 50mg,Cardiac,20-07-2024,4
+95,Dr. Singh,Orthopedic,Bengaluru,35,Female,Omeprazole 20mg,Gastro,09-04-2024,3
+96,Dr. Verma,Cardiologist,Kolkata,16,Male,Cetirizine 10mg,Anti-Allergic,20-11-2023,2
+97,Dr. Verma,Dermatologist,Bengaluru,25,Female,Metformin 500mg,Anti-Diabetic,13-04-2023,2
+98,Dr. Iyer,Pediatrician,Bengaluru,17,Female,Paracetamol 500mg,Analgesic,30-06-2024,1
+99,Dr. Sharma,Orthopedic,Bengaluru,14,Male,Atorvastatin 10mg,Cardiac,17-05-2024,5
+100,Dr. Iyer,Dermatologist,Hyderabad,24,Male,Losartan 50mg,Cardiac,15-12-2023,3
+101,Dr. Khan,Cardiologist,Mumbai,10,Male,Azithromycin 500mg,Antibiotic,18-05-2024,2
+102,Dr. Verma,Orthopedic,Bengaluru,16,Female,Amoxicillin 250mg,Antibiotic,12-09-2023,5
+103,Dr. Gupta,Orthopedic,Delhi,57,Female,Azithromycin 500mg,Antibiotic,06-04-2024,5
+104,Dr. Khan,General Physician,Chennai,27,Male,Paracetamol 500mg,Analgesic,12-04-2023,3
+105,Dr. Singh,Cardiologist,Delhi,71,Male,Cetirizine 10mg,Anti-Allergic,27-06-2023,2
+106,Dr. Sharma,Dermatologist,Hyderabad,5,Male,Losartan 50mg,Cardiac,26-10-2023,3
+107,Dr. Singh,General Physician,Kolkata,88,Male,Losartan 50mg,Cardiac,14-03-2023,3
+108,Dr. Singh,Orthopedic,Kolkata,15,Male,Cetirizine 10mg,Anti-Allergic,11-03-2024,2
+109,Dr. Iyer,Pediatrician,Mumbai,40,Female,Paracetamol 500mg,Analgesic,19-06-2023,4
+110,Dr. Sharma,Dermatologist,Kolkata,35,Female,Metformin 500mg,Anti-Diabetic,17-02-2024,4
+111,Dr. Sharma,Orthopedic,Mumbai,78,Female,Azithromycin 500mg,Antibiotic,27-11-2023,1
+112,Dr. Sharma,Pediatrician,Kolkata,74,Male,Paracetamol 500mg,Analgesic,03-10-2023,2
+113,Dr. Khan,Orthopedic,Kolkata,24,Female,Losartan 50mg,Cardiac,12-10-2023,4
+114,Dr. Sharma,Dermatologist,Bengaluru,42,Male,Azithromycin 500mg,Antibiotic,08-12-2023,2
+115,Dr. Iyer,Dermatologist,Kolkata,85,Female,Losartan 50mg,Cardiac,23-10-2023,5
+116,Dr. Sharma,Dermatologist,Mumbai,42,Male,Omeprazole 20mg,Gastro,16-09-2023,4
+117,Dr. Gupta,Cardiologist,Kolkata,7,Male,Losartan 50mg,Cardiac,28-02-2024,5
+118,Dr. Iyer,Orthopedic,Hyderabad,27,Female,Losartan 50mg,Cardiac,22-02-2023,5
+119,Dr. Verma,General Physician,Hyderabad,4,Male,Losartan 50mg,Cardiac,05-05-2023,2
+120,Dr. Iyer,Orthopedic,Mumbai,29,Male,Azithromycin 500mg,Antibiotic,06-04-2023,4
+121,Dr. Sharma,Pediatrician,Hyderabad,35,Female,Metformin 500mg,Anti-Diabetic,05-06-2024,4
+122,Dr. Khan,Pediatrician,Hyderabad,25,Male,Atorvastatin 10mg,Cardiac,28-01-2024,1
+123,Dr. Iyer,Dermatologist,Bengaluru,37,Female,Metformin 500mg,Anti-Diabetic,03-01-2023,5
+124,Dr. Gupta,Dermatologist,Delhi,62,Female,Losartan 50mg,Cardiac,05-07-2024,3
+125,Dr. Gupta,Orthopedic,Hyderabad,25,Male,Losartan 50mg,Cardiac,26-11-2023,5
+126,Dr. Khan,Pediatrician,Hyderabad,61,Female,Paracetamol 500mg,Analgesic,22-11-2023,4
+127,Dr. Singh,Pediatrician,Hyderabad,65,Female,Paracetamol 500mg,Analgesic,10-05-2023,1
+128,Dr. Khan,Cardiologist,Chennai,19,Female,Losartan 50mg,Cardiac,16-01-2023,2
+129,Dr. Sharma,Dermatologist,Bengaluru,84,Male,Omeprazole 20mg,Gastro,12-02-2024,3
+130,Dr. Singh,Orthopedic,Hyderabad,70,Male,Omeprazole 20mg,Gastro,14-05-2024,5
+131,Dr. Sharma,Pediatrician,Kolkata,12,Female,Metformin 500mg,Anti-Diabetic,21-08-2023,1
+132,Dr. Singh,Cardiologist,Hyderabad,4,Male,Atorvastatin 10mg,Cardiac,03-11-2023,3
+133,Dr. Sharma,General Physician,Bengaluru,19,Male,Omeprazole 20mg,Gastro,17-03-2024,5
+134,Dr. Khan,Orthopedic,Kolkata,23,Male,Atorvastatin 10mg,Cardiac,24-06-2023,5
+135,Dr. Khan,Orthopedic,Kolkata,75,Male,Cetirizine 10mg,Anti-Allergic,24-05-2024,2
+136,Dr. Khan,General Physician,Hyderabad,60,Female,Metformin 500mg,Anti-Diabetic,10-01-2023,5
+137,Dr. Verma,Cardiologist,Hyderabad,82,Female,Omeprazole 20mg,Gastro,03-11-2023,3
+138,Dr. Khan,General Physician,Delhi,14,Male,Azithromycin 500mg,Antibiotic,09-05-2024,4
+139,Dr. Gupta,General Physician,Chennai,3,Female,Metformin 500mg,Anti-Diabetic,30-10-2023,3
+140,Dr. Sharma,Orthopedic,Kolkata,37,Male,Paracetamol 500mg,Analgesic,23-05-2024,5
+141,Dr. Iyer,Pediatrician,Kolkata,87,Male,Cetirizine 10mg,Anti-Allergic,14-09-2023,1
+142,Dr. Singh,Cardiologist,Bengaluru,75,Female,Losartan 50mg,Cardiac,04-02-2023,2
+143,Dr. Sharma,General Physician,Bengaluru,26,Male,Azithromycin 500mg,Antibiotic,29-06-2023,5
+144,Dr. Iyer,Orthopedic,Chennai,33,Female,Metformin 500mg,Anti-Diabetic,18-06-2023,3
+145,Dr. Singh,General Physician,Mumbai,19,Male,Losartan 50mg,Cardiac,19-03-2023,4
+146,Dr. Gupta,General Physician,Mumbai,34,Male,Azithromycin 500mg,Antibiotic,15-01-2023,4
+147,Dr. Iyer,General Physician,Chennai,14,Male,Azithromycin 500mg,Antibiotic,16-01-2024,4
+148,Dr. Sharma,Orthopedic,Chennai,83,Male,Omeprazole 20mg,Gastro,15-08-2023,4
+149,Dr. Singh,General Physician,Kolkata,18,Male,Azithromycin 500mg,Antibiotic,30-04-2023,1
+150,Dr. Iyer,Dermatologist,Mumbai,69,Male,Amoxicillin 250mg,Antibiotic,29-08-2023,4
+151,Dr. Khan,General Physician,Kolkata,54,Male,Azithromycin 500mg,Antibiotic,08-06-2023,4
+152,Dr. Gupta,Dermatologist,Bengaluru,28,Female,Paracetamol 500mg,Analgesic,15-01-2024,4
+153,Dr. Verma,General Physician,Mumbai,83,Female,Omeprazole 20mg,Gastro,11-07-2024,1
+154,Dr. Khan,General Physician,Delhi,12,Male,Amoxicillin 250mg,Antibiotic,10-04-2024,5
+155,Dr. Sharma,Cardiologist,Bengaluru,73,Male,Cetirizine 10mg,Anti-Allergic,09-05-2023,1
+156,Dr. Gupta,Pediatrician,Chennai,43,Male,Cetirizine 10mg,Anti-Allergic,27-08-2023,5
+157,Dr. Sharma,General Physician,Delhi,33,Male,Atorvastatin 10mg,Cardiac,07-07-2024,1
+158,Dr. Singh,Cardiologist,Delhi,31,Female,Paracetamol 500mg,Analgesic,02-01-2024,1
+159,Dr. Verma,General Physician,Mumbai,68,Male,Atorvastatin 10mg,Cardiac,07-03-2024,1
+160,Dr. Khan,Dermatologist,Bengaluru,65,Male,Amoxicillin 250mg,Antibiotic,07-04-2024,5
+161,Dr. Sharma,Orthopedic,Bengaluru,8,Female,Losartan 50mg,Cardiac,01-02-2023,4
+162,Dr. Khan,Cardiologist,Hyderabad,11,Female,Losartan 50mg,Cardiac,17-03-2023,5
+163,Dr. Verma,Cardiologist,Delhi,71,Female,Metformin 500mg,Anti-Diabetic,22-08-2024,4
+164,Dr. Gupta,Orthopedic,Bengaluru,78,Female,Losartan 50mg,Cardiac,01-06-2024,1
+165,Dr. Singh,Cardiologist,Kolkata,58,Male,Cetirizine 10mg,Anti-Allergic,16-03-2024,4
+166,Dr. Iyer,Dermatologist,Hyderabad,41,Female,Azithromycin 500mg,Antibiotic,08-04-2023,3
+167,Dr. Singh,General Physician,Bengaluru,9,Male,Atorvastatin 10mg,Cardiac,30-04-2024,1
+168,Dr. Sharma,Dermatologist,Mumbai,72,Male,Omeprazole 20mg,Gastro,14-05-2023,5
+169,Dr. Gupta,Orthopedic,Bengaluru,46,Female,Amoxicillin 250mg,Antibiotic,25-02-2024,1
+170,Dr. Iyer,Orthopedic,Bengaluru,74,Male,Omeprazole 20mg,Gastro,17-04-2023,2
+171,Dr. Singh,Dermatologist,Delhi,72,Female,Amoxicillin 250mg,Antibiotic,25-12-2023,1
+172,Dr. Iyer,Orthopedic,Delhi,80,Male,Azithromycin 500mg,Antibiotic,28-07-2024,5
+173,Dr. Singh,General Physician,Mumbai,90,Female,Atorvastatin 10mg,Cardiac,07-10-2023,3
+174,Dr. Iyer,Cardiologist,Delhi,85,Female,Atorvastatin 10mg,Cardiac,02-08-2024,1
+175,Dr. Verma,Cardiologist,Mumbai,54,Female,Cetirizine 10mg,Anti-Allergic,21-01-2024,3
+176,Dr. Verma,General Physician,Bengaluru,77,Male,Omeprazole 20mg,Gastro,04-08-2024,1
+177,Dr. Verma,Pediatrician,Chennai,35,Female,Paracetamol 500mg,Analgesic,25-03-2023,4
+178,Dr. Khan,Orthopedic,Hyderabad,28,Male,Azithromycin 500mg,Antibiotic,07-10-2023,3
+179,Dr. Khan,Cardiologist,Bengaluru,86,Female,Losartan 50mg,Cardiac,23-06-2024,1
+180,Dr. Verma,Dermatologist,Chennai,27,Female,Paracetamol 500mg,Analgesic,08-01-2023,2
+181,Dr. Verma,General Physician,Bengaluru,1,Female,Omeprazole 20mg,Gastro,03-05-2023,4
+182,Dr. Verma,Pediatrician,Hyderabad,72,Female,Cetirizine 10mg,Anti-Allergic,27-05-2024,1
+183,Dr. Khan,Cardiologist,Hyderabad,10,Female,Paracetamol 500mg,Analgesic,15-04-2024,5
+184,Dr. Khan,Orthopedic,Hyderabad,15,Female,Azithromycin 500mg,Antibiotic,24-10-2023,1
+185,Dr. Iyer,Pediatrician,Chennai,12,Female,Losartan 50mg,Cardiac,06-01-2024,1
+186,Dr. Verma,Dermatologist,Chennai,11,Female,Azithromycin 500mg,Antibiotic,20-06-2024,3
+187,Dr. Singh,General Physician,Delhi,10,Male,Omeprazole 20mg,Gastro,22-06-2023,5
+188,Dr. Gupta,Pediatrician,Bengaluru,31,Male,Omeprazole 20mg,Gastro,01-06-2023,2
+189,Dr. Iyer,Pediatrician,Delhi,23,Female,Atorvastatin 10mg,Cardiac,19-03-2023,4
+190,Dr. Gupta,Orthopedic,Hyderabad,20,Female,Omeprazole 20mg,Gastro,20-11-2023,1
+191,Dr. Khan,Dermatologist,Kolkata,76,Male,Metformin 500mg,Anti-Diabetic,09-10-2023,3
+192,Dr. Gupta,Cardiologist,Bengaluru,5,Male,Losartan 50mg,Cardiac,07-04-2024,3
+193,Dr. Iyer,Cardiologist,Kolkata,50,Female,Amoxicillin 250mg,Antibiotic,03-06-2024,5
+194,Dr. Gupta,Cardiologist,Hyderabad,78,Female,Cetirizine 10mg,Anti-Allergic,26-11-2023,5
+195,Dr. Verma,Cardiologist,Hyderabad,11,Male,Amoxicillin 250mg,Antibiotic,18-12-2023,1
+196,Dr. Verma,Dermatologist,Hyderabad,48,Female,Atorvastatin 10mg,Cardiac,08-01-2024,4
+197,Dr. Khan,General Physician,Kolkata,9,Female,Paracetamol 500mg,Analgesic,09-12-2023,1
+198,Dr. Gupta,Dermatologist,Bengaluru,43,Male,Metformin 500mg,Anti-Diabetic,03-06-2023,5
+199,Dr. Singh,Pediatrician,Bengaluru,17,Male,Metformin 500mg,Anti-Diabetic,06-02-2024,3
+200,Dr. Gupta,Dermatologist,Kolkata,86,Male,Omeprazole 20mg,Gastro,11-05-2023,4
+201,Dr. Gupta,General Physician,Mumbai,24,Male,Omeprazole 20mg,Gastro,13-11-2023,3
+202,Dr. Khan,Pediatrician,Delhi,10,Female,Atorvastatin 10mg,Cardiac,08-06-2023,1
+203,Dr. Gupta,Orthopedic,Kolkata,80,Male,Paracetamol 500mg,Analgesic,11-12-2023,5
+204,Dr. Khan,Pediatrician,Delhi,57,Male,Atorvastatin 10mg,Cardiac,19-06-2023,4
+205,Dr. Iyer,Pediatrician,Hyderabad,30,Male,Metformin 500mg,Anti-Diabetic,04-04-2024,3
+206,Dr. Khan,Pediatrician,Bengaluru,37,Female,Losartan 50mg,Cardiac,17-04-2024,5
+207,Dr. Gupta,Dermatologist,Delhi,33,Male,Cetirizine 10mg,Anti-Allergic,22-05-2023,4
+208,Dr. Iyer,Orthopedic,Mumbai,11,Male,Amoxicillin 250mg,Antibiotic,19-10-2023,3
+209,Dr. Khan,Orthopedic,Delhi,29,Female,Azithromycin 500mg,Antibiotic,04-04-2023,3
+210,Dr. Sharma,Dermatologist,Mumbai,48,Male,Azithromycin 500mg,Antibiotic,29-05-2024,4
+211,Dr. Sharma,General Physician,Delhi,13,Female,Paracetamol 500mg,Analgesic,23-11-2023,2
+212,Dr. Verma,Cardiologist,Bengaluru,61,Female,Losartan 50mg,Cardiac,23-05-2023,5
+213,Dr. Sharma,Cardiologist,Mumbai,20,Female,Metformin 500mg,Anti-Diabetic,09-08-2023,1
+214,Dr. Iyer,Pediatrician,Bengaluru,31,Female,Amoxicillin 250mg,Antibiotic,18-02-2023,5
+215,Dr. Khan,Cardiologist,Mumbai,3,Male,Losartan 50mg,Cardiac,02-07-2024,2
+216,Dr. Iyer,Dermatologist,Mumbai,74,Female,Omeprazole 20mg,Gastro,04-09-2023,2
+217,Dr. Singh,Cardiologist,Chennai,68,Male,Omeprazole 20mg,Gastro,11-03-2023,4
+218,Dr. Khan,Cardiologist,Kolkata,33,Male,Azithromycin 500mg,Antibiotic,18-01-2024,3
+219,Dr. Sharma,General Physician,Delhi,43,Male,Amoxicillin 250mg,Antibiotic,18-08-2024,1
+220,Dr. Iyer,Orthopedic,Bengaluru,90,Female,Atorvastatin 10mg,Cardiac,20-04-2024,2
+221,Dr. Verma,Cardiologist,Kolkata,38,Male,Losartan 50mg,Cardiac,07-02-2023,1
+222,Dr. Verma,Cardiologist,Bengaluru,51,Female,Metformin 500mg,Anti-Diabetic,11-06-2024,3
+223,Dr. Sharma,Pediatrician,Bengaluru,84,Female,Omeprazole 20mg,Gastro,18-02-2023,3
+224,Dr. Sharma,General Physician,Hyderabad,50,Female,Azithromycin 500mg,Antibiotic,26-03-2024,2
+225,Dr. Khan,Dermatologist,Bengaluru,55,Male,Metformin 500mg,Anti-Diabetic,26-03-2023,4
+226,Dr. Gupta,Pediatrician,Chennai,14,Male,Metformin 500mg,Anti-Diabetic,25-11-2023,3
+227,Dr. Singh,General Physician,Bengaluru,22,Female,Losartan 50mg,Cardiac,12-03-2024,3
+228,Dr. Khan,Cardiologist,Kolkata,36,Male,Omeprazole 20mg,Gastro,21-03-2024,1
+229,Dr. Singh,Dermatologist,Bengaluru,19,Female,Atorvastatin 10mg,Cardiac,01-02-2023,1
+230,Dr. Verma,Cardiologist,Delhi,50,Male,Omeprazole 20mg,Gastro,06-01-2024,5
+231,Dr. Verma,Dermatologist,Bengaluru,10,Male,Omeprazole 20mg,Gastro,30-03-2024,5
+232,Dr. Iyer,Dermatologist,Bengaluru,15,Male,Metformin 500mg,Anti-Diabetic,13-09-2023,2
+233,Dr. Khan,Orthopedic,Hyderabad,34,Female,Amoxicillin 250mg,Antibiotic,26-09-2023,2
+234,Dr. Gupta,General Physician,Kolkata,16,Male,Losartan 50mg,Cardiac,24-07-2023,1
+235,Dr. Khan,Pediatrician,Kolkata,88,Female,Losartan 50mg,Cardiac,31-03-2023,3
+236,Dr. Singh,Cardiologist,Chennai,21,Male,Metformin 500mg,Anti-Diabetic,04-11-2023,3
+237,Dr. Gupta,Pediatrician,Mumbai,31,Female,Cetirizine 10mg,Anti-Allergic,23-05-2023,1
+238,Dr. Iyer,Orthopedic,Chennai,71,Male,Omeprazole 20mg,Gastro,23-04-2024,5
+239,Dr. Sharma,Cardiologist,Bengaluru,68,Female,Azithromycin 500mg,Antibiotic,05-05-2024,4
+240,Dr. Gupta,Cardiologist,Delhi,58,Female,Omeprazole 20mg,Gastro,17-03-2023,5
+241,Dr. Iyer,Pediatrician,Chennai,56,Male,Atorvastatin 10mg,Cardiac,13-05-2023,1
+242,Dr. Gupta,Pediatrician,Bengaluru,42,Male,Atorvastatin 10mg,Cardiac,15-06-2023,3
+243,Dr. Gupta,General Physician,Mumbai,82,Female,Metformin 500mg,Anti-Diabetic,21-07-2023,2
+244,Dr. Singh,General Physician,Chennai,83,Male,Amoxicillin 250mg,Antibiotic,29-05-2024,5
+245,Dr. Gupta,Pediatrician,Delhi,6,Male,Omeprazole 20mg,Gastro,31-07-2024,1
+246,Dr. Sharma,Orthopedic,Bengaluru,54,Male,Cetirizine 10mg,Anti-Allergic,08-08-2024,4
+247,Dr. Singh,Orthopedic,Bengaluru,32,Female,Metformin 500mg,Anti-Diabetic,09-05-2024,3
+248,Dr. Khan,Cardiologist,Kolkata,57,Female,Paracetamol 500mg,Analgesic,11-06-2023,4
+249,Dr. Khan,Pediatrician,Bengaluru,41,Female,Atorvastatin 10mg,Cardiac,17-11-2023,4
+250,Dr. Verma,General Physician,Chennai,31,Female,Amoxicillin 250mg,Antibiotic,23-11-2023,1
+251,Dr. Iyer,Dermatologist,Delhi,7,Female,Atorvastatin 10mg,Cardiac,10-04-2023,4
+252,Dr. Gupta,Dermatologist,Delhi,74,Female,Atorvastatin 10mg,Cardiac,02-12-2023,2
+253,Dr. Verma,Dermatologist,Chennai,40,Female,Losartan 50mg,Cardiac,25-05-2024,1
+254,Dr. Sharma,Dermatologist,Chennai,28,Female,Losartan 50mg,Cardiac,04-09-2023,1
+255,Dr. Sharma,General Physician,Hyderabad,69,Male,Losartan 50mg,Cardiac,20-10-2023,1
+256,Dr. Khan,Pediatrician,Bengaluru,47,Male,Omeprazole 20mg,Gastro,17-02-2024,4
+257,Dr. Sharma,Orthopedic,Chennai,71,Female,Cetirizine 10mg,Anti-Allergic,07-01-2024,1
+258,Dr. Khan,Orthopedic,Hyderabad,17,Male,Metformin 500mg,Anti-Diabetic,02-05-2023,4
+259,Dr. Iyer,General Physician,Chennai,26,Female,Omeprazole 20mg,Gastro,28-05-2023,5
+260,Dr. Sharma,Cardiologist,Mumbai,61,Female,Atorvastatin 10mg,Cardiac,08-12-2023,2
+261,Dr. Gupta,Orthopedic,Delhi,21,Female,Omeprazole 20mg,Gastro,23-11-2023,5
+262,Dr. Singh,General Physician,Chennai,66,Female,Omeprazole 20mg,Gastro,03-06-2024,5
+263,Dr. Iyer,Dermatologist,Mumbai,87,Male,Omeprazole 20mg,Gastro,06-12-2023,4
+264,Dr. Gupta,General Physician,Kolkata,34,Male,Paracetamol 500mg,Analgesic,30-04-2024,1
+265,Dr. Gupta,Dermatologist,Delhi,88,Male,Azithromycin 500mg,Antibiotic,01-06-2023,1
+266,Dr. Gupta,Cardiologist,Delhi,41,Female,Paracetamol 500mg,Analgesic,27-03-2024,2
+267,Dr. Khan,Pediatrician,Hyderabad,18,Male,Losartan 50mg,Cardiac,05-03-2023,5
+268,Dr. Iyer,Dermatologist,Chennai,23,Female,Azithromycin 500mg,Antibiotic,18-11-2023,5
+269,Dr. Iyer,Orthopedic,Bengaluru,25,Male,Metformin 500mg,Anti-Diabetic,10-05-2024,3
+270,Dr. Gupta,General Physician,Delhi,27,Female,Metformin 500mg,Anti-Diabetic,23-10-2023,3
+271,Dr. Khan,General Physician,Chennai,16,Female,Metformin 500mg,Anti-Diabetic,22-10-2023,4
+272,Dr. Iyer,Pediatrician,Bengaluru,11,Female,Paracetamol 500mg,Analgesic,22-10-2023,4
+273,Dr. Singh,General Physician,Kolkata,26,Female,Losartan 50mg,Cardiac,08-08-2023,5
+274,Dr. Singh,General Physician,Delhi,31,Male,Amoxicillin 250mg,Antibiotic,23-08-2024,1
+275,Dr. Singh,Orthopedic,Delhi,13,Female,Cetirizine 10mg,Anti-Allergic,23-02-2023,3
+276,Dr. Singh,Dermatologist,Mumbai,71,Male,Atorvastatin 10mg,Cardiac,06-01-2023,4
+277,Dr. Singh,Dermatologist,Hyderabad,42,Female,Cetirizine 10mg,Anti-Allergic,22-10-2023,1
+278,Dr. Sharma,Orthopedic,Delhi,54,Male,Paracetamol 500mg,Analgesic,29-06-2023,1
+279,Dr. Khan,Dermatologist,Delhi,2,Female,Metformin 500mg,Anti-Diabetic,08-02-2023,5
+280,Dr. Gupta,Cardiologist,Bengaluru,83,Female,Metformin 500mg,Anti-Diabetic,10-04-2024,2
+281,Dr. Gupta,Dermatologist,Bengaluru,43,Male,Cetirizine 10mg,Anti-Allergic,26-04-2023,4
+282,Dr. Singh,General Physician,Kolkata,44,Female,Atorvastatin 10mg,Cardiac,15-01-2023,5
+283,Dr. Singh,Pediatrician,Delhi,66,Female,Azithromycin 500mg,Antibiotic,13-03-2024,1
+284,Dr. Khan,Cardiologist,Delhi,42,Male,Atorvastatin 10mg,Cardiac,03-05-2024,1
+285,Dr. Iyer,Dermatologist,Delhi,43,Female,Losartan 50mg,Cardiac,01-10-2023,5
+286,Dr. Singh,Orthopedic,Mumbai,89,Male,Metformin 500mg,Anti-Diabetic,04-01-2024,1
+287,Dr. Singh,Cardiologist,Hyderabad,52,Female,Metformin 500mg,Anti-Diabetic,13-06-2023,1
+288,Dr. Singh,General Physician,Bengaluru,18,Female,Cetirizine 10mg,Anti-Allergic,13-08-2023,2
+289,Dr. Khan,Orthopedic,Bengaluru,61,Male,Azithromycin 500mg,Antibiotic,16-07-2024,2
+290,Dr. Singh,Orthopedic,Mumbai,47,Male,Losartan 50mg,Cardiac,24-06-2024,5
+291,Dr. Sharma,Cardiologist,Chennai,69,Male,Cetirizine 10mg,Anti-Allergic,09-08-2024,2
+292,Dr. Iyer,Orthopedic,Hyderabad,75,Female,Amoxicillin 250mg,Antibiotic,30-07-2023,1
+293,Dr. Gupta,Dermatologist,Mumbai,66,Female,Losartan 50mg,Cardiac,16-05-2023,4
+294,Dr. Gupta,Cardiologist,Chennai,3,Female,Losartan 50mg,Cardiac,12-11-2023,3
+295,Dr. Sharma,Pediatrician,Chennai,55,Female,Amoxicillin 250mg,Antibiotic,16-02-2023,1
+296,Dr. Gupta,Cardiologist,Mumbai,37,Female,Losartan 50mg,Cardiac,02-02-2023,2
+297,Dr. Verma,Dermatologist,Bengaluru,49,Female,Azithromycin 500mg,Antibiotic,04-04-2024,1
+298,Dr. Singh,Orthopedic,Delhi,23,Female,Omeprazole 20mg,Gastro,02-05-2023,5
+299,Dr. Verma,Pediatrician,Mumbai,60,Female,Paracetamol 500mg,Analgesic,02-11-2023,5
+300,Dr. Khan,Pediatrician,Delhi,20,Female,Losartan 50mg,Cardiac,21-12-2023,2
+301,Dr. Singh,Cardiologist,Mumbai,31,Male,Azithromycin 500mg,Antibiotic,17-01-2023,1
+302,Dr. Sharma,Orthopedic,Mumbai,32,Male,Losartan 50mg,Cardiac,19-02-2023,4
+303,Dr. Khan,Pediatrician,Chennai,18,Female,Cetirizine 10mg,Anti-Allergic,27-02-2023,2
+304,Dr. Singh,Orthopedic,Bengaluru,39,Male,Omeprazole 20mg,Gastro,31-08-2023,5
+305,Dr. Verma,Dermatologist,Bengaluru,72,Male,Metformin 500mg,Anti-Diabetic,04-03-2023,4
+306,Dr. Gupta,Dermatologist,Mumbai,68,Female,Omeprazole 20mg,Gastro,26-01-2024,4
+307,Dr. Khan,Pediatrician,Bengaluru,69,Female,Azithromycin 500mg,Antibiotic,08-07-2023,2
+308,Dr. Verma,General Physician,Kolkata,8,Female,Atorvastatin 10mg,Cardiac,19-04-2024,4
+309,Dr. Gupta,Orthopedic,Delhi,33,Male,Azithromycin 500mg,Antibiotic,06-09-2023,3
+310,Dr. Singh,Cardiologist,Hyderabad,69,Male,Omeprazole 20mg,Gastro,05-04-2023,1
+311,Dr. Iyer,Dermatologist,Kolkata,25,Male,Paracetamol 500mg,Analgesic,16-03-2023,4
+312,Dr. Verma,General Physician,Bengaluru,25,Male,Paracetamol 500mg,Analgesic,05-08-2023,4
+313,Dr. Verma,Orthopedic,Kolkata,31,Female,Cetirizine 10mg,Anti-Allergic,11-02-2024,3
+314,Dr. Khan,Dermatologist,Chennai,34,Female,Omeprazole 20mg,Gastro,12-11-2023,5
+315,Dr. Khan,Dermatologist,Mumbai,27,Female,Losartan 50mg,Cardiac,24-11-2023,3
+316,Dr. Khan,Cardiologist,Chennai,3,Female,Cetirizine 10mg,Anti-Allergic,30-05-2023,5
+317,Dr. Gupta,Orthopedic,Kolkata,20,Male,Azithromycin 500mg,Antibiotic,30-10-2023,3
+318,Dr. Verma,Dermatologist,Chennai,71,Female,Cetirizine 10mg,Anti-Allergic,26-05-2024,3
+319,Dr. Khan,Dermatologist,Hyderabad,22,Male,Atorvastatin 10mg,Cardiac,27-12-2023,5
+320,Dr. Khan,Pediatrician,Chennai,5,Male,Paracetamol 500mg,Analgesic,20-06-2024,1
+321,Dr. Sharma,Dermatologist,Delhi,20,Male,Cetirizine 10mg,Anti-Allergic,11-03-2023,2
+322,Dr. Gupta,Dermatologist,Bengaluru,85,Female,Paracetamol 500mg,Analgesic,09-05-2024,1
+323,Dr. Sharma,Orthopedic,Chennai,3,Female,Azithromycin 500mg,Antibiotic,13-01-2023,5
+324,Dr. Iyer,Cardiologist,Chennai,14,Male,Azithromycin 500mg,Antibiotic,03-07-2023,5
+325,Dr. Verma,Pediatrician,Delhi,35,Female,Metformin 500mg,Anti-Diabetic,29-12-2023,1
+326,Dr. Iyer,Dermatologist,Hyderabad,39,Male,Cetirizine 10mg,Anti-Allergic,20-08-2023,1
+327,Dr. Sharma,Dermatologist,Hyderabad,61,Male,Azithromycin 500mg,Antibiotic,19-07-2024,1
+328,Dr. Singh,Pediatrician,Mumbai,83,Female,Losartan 50mg,Cardiac,20-03-2024,5
+329,Dr. Sharma,Orthopedic,Mumbai,89,Female,Cetirizine 10mg,Anti-Allergic,05-08-2023,3
+330,Dr. Sharma,Cardiologist,Kolkata,73,Male,Metformin 500mg,Anti-Diabetic,10-07-2024,2
+331,Dr. Iyer,Cardiologist,Delhi,10,Female,Atorvastatin 10mg,Cardiac,12-02-2024,2
+332,Dr. Gupta,Pediatrician,Chennai,43,Female,Azithromycin 500mg,Antibiotic,07-07-2024,2
+333,Dr. Singh,Cardiologist,Chennai,13,Female,Omeprazole 20mg,Gastro,24-02-2023,2
+334,Dr. Sharma,General Physician,Chennai,4,Female,Azithromycin 500mg,Antibiotic,01-12-2023,4
+335,Dr. Khan,Pediatrician,Bengaluru,24,Female,Azithromycin 500mg,Antibiotic,18-03-2024,1
+336,Dr. Gupta,General Physician,Delhi,35,Male,Amoxicillin 250mg,Antibiotic,26-03-2023,4
+337,Dr. Singh,Pediatrician,Kolkata,47,Male,Azithromycin 500mg,Antibiotic,21-11-2023,1
+338,Dr. Sharma,General Physician,Hyderabad,14,Male,Omeprazole 20mg,Gastro,04-10-2023,1
+339,Dr. Verma,Dermatologist,Hyderabad,4,Male,Azithromycin 500mg,Antibiotic,16-04-2023,3
+340,Dr. Gupta,Cardiologist,Chennai,2,Female,Omeprazole 20mg,Gastro,30-01-2024,4
+341,Dr. Khan,Cardiologist,Kolkata,67,Male,Cetirizine 10mg,Anti-Allergic,08-08-2024,4
+342,Dr. Verma,Pediatrician,Bengaluru,64,Male,Metformin 500mg,Anti-Diabetic,02-10-2023,1
+343,Dr. Verma,Dermatologist,Bengaluru,62,Male,Azithromycin 500mg,Antibiotic,03-11-2023,3
+344,Dr. Iyer,Pediatrician,Kolkata,59,Male,Losartan 50mg,Cardiac,20-07-2023,2
+345,Dr. Iyer,Cardiologist,Hyderabad,43,Female,Omeprazole 20mg,Gastro,25-01-2024,3
+346,Dr. Khan,Orthopedic,Delhi,78,Male,Metformin 500mg,Anti-Diabetic,25-11-2023,4
+347,Dr. Iyer,Pediatrician,Hyderabad,89,Female,Omeprazole 20mg,Gastro,26-10-2023,5
+348,Dr. Verma,General Physician,Hyderabad,47,Male,Metformin 500mg,Anti-Diabetic,07-02-2024,5
+349,Dr. Verma,Orthopedic,Chennai,4,Female,Atorvastatin 10mg,Cardiac,17-07-2024,2
+350,Dr. Khan,General Physician,Kolkata,87,Female,Amoxicillin 250mg,Antibiotic,23-02-2024,2
+351,Dr. Singh,General Physician,Delhi,55,Female,Metformin 500mg,Anti-Diabetic,07-06-2023,1
+352,Dr. Khan,Orthopedic,Hyderabad,65,Female,Azithromycin 500mg,Antibiotic,01-07-2024,5
+353,Dr. Sharma,General Physician,Kolkata,32,Female,Amoxicillin 250mg,Antibiotic,22-04-2023,2
+354,Dr. Singh,Orthopedic,Mumbai,56,Male,Azithromycin 500mg,Antibiotic,06-12-2023,1
+355,Dr. Sharma,General Physician,Delhi,48,Female,Cetirizine 10mg,Anti-Allergic,01-04-2024,4
+356,Dr. Singh,Orthopedic,Kolkata,4,Female,Atorvastatin 10mg,Cardiac,20-12-2023,1
+357,Dr. Iyer,Dermatologist,Mumbai,45,Female,Amoxicillin 250mg,Antibiotic,26-05-2023,3
+358,Dr. Khan,Pediatrician,Chennai,61,Male,Losartan 50mg,Cardiac,23-12-2023,4
+359,Dr. Singh,Dermatologist,Bengaluru,6,Male,Amoxicillin 250mg,Antibiotic,04-11-2023,1
+360,Dr. Iyer,Cardiologist,Kolkata,67,Male,Atorvastatin 10mg,Cardiac,07-09-2023,5
+361,Dr. Verma,General Physician,Chennai,30,Female,Azithromycin 500mg,Antibiotic,18-04-2024,2
+362,Dr. Verma,Dermatologist,Hyderabad,58,Female,Paracetamol 500mg,Analgesic,22-07-2023,4
+363,Dr. Sharma,Pediatrician,Delhi,74,Male,Metformin 500mg,Anti-Diabetic,06-03-2023,5
+364,Dr. Verma,General Physician,Bengaluru,15,Female,Cetirizine 10mg,Anti-Allergic,13-04-2024,4
+365,Dr. Gupta,General Physician,Chennai,76,Male,Azithromycin 500mg,Antibiotic,06-02-2024,3
+366,Dr. Iyer,Dermatologist,Chennai,79,Male,Atorvastatin 10mg,Cardiac,01-11-2023,2
+367,Dr. Iyer,Cardiologist,Delhi,24,Female,Metformin 500mg,Anti-Diabetic,30-04-2023,2
+368,Dr. Gupta,Dermatologist,Hyderabad,50,Female,Atorvastatin 10mg,Cardiac,11-08-2024,2
+369,Dr. Khan,Orthopedic,Kolkata,22,Female,Atorvastatin 10mg,Cardiac,22-07-2024,3
+370,Dr. Verma,Pediatrician,Bengaluru,46,Male,Losartan 50mg,Cardiac,24-02-2023,4
+371,Dr. Verma,Pediatrician,Hyderabad,88,Female,Losartan 50mg,Cardiac,23-02-2024,4
+372,Dr. Singh,Dermatologist,Hyderabad,73,Male,Atorvastatin 10mg,Cardiac,26-03-2023,2
+373,Dr. Iyer,Cardiologist,Bengaluru,37,Male,Cetirizine 10mg,Anti-Allergic,04-07-2024,4
+374,Dr. Gupta,Dermatologist,Chennai,15,Female,Amoxicillin 250mg,Antibiotic,09-08-2024,5
+375,Dr. Iyer,Orthopedic,Mumbai,28,Female,Losartan 50mg,Cardiac,13-07-2024,1
+376,Dr. Singh,Pediatrician,Bengaluru,34,Female,Paracetamol 500mg,Analgesic,05-04-2024,1
+377,Dr. Khan,Cardiologist,Delhi,79,Female,Cetirizine 10mg,Anti-Allergic,26-12-2023,2
+378,Dr. Gupta,Pediatrician,Delhi,73,Female,Cetirizine 10mg,Anti-Allergic,02-03-2023,5
+379,Dr. Iyer,Orthopedic,Chennai,38,Female,Atorvastatin 10mg,Cardiac,28-11-2023,5
+380,Dr. Iyer,Orthopedic,Kolkata,53,Male,Amoxicillin 250mg,Antibiotic,19-05-2023,3
+381,Dr. Singh,Pediatrician,Kolkata,19,Female,Atorvastatin 10mg,Cardiac,13-09-2023,2
+382,Dr. Singh,Dermatologist,Hyderabad,81,Female,Atorvastatin 10mg,Cardiac,14-08-2024,4
+383,Dr. Khan,Dermatologist,Mumbai,66,Female,Amoxicillin 250mg,Antibiotic,17-02-2024,3
+384,Dr. Khan,Dermatologist,Bengaluru,59,Female,Paracetamol 500mg,Analgesic,06-04-2023,1
+385,Dr. Gupta,Dermatologist,Delhi,64,Female,Azithromycin 500mg,Antibiotic,05-08-2023,3
+386,Dr. Iyer,General Physician,Chennai,63,Female,Atorvastatin 10mg,Cardiac,02-08-2024,1
+387,Dr. Sharma,Cardiologist,Kolkata,16,Male,Losartan 50mg,Cardiac,17-01-2023,4
+388,Dr. Khan,Cardiologist,Hyderabad,84,Female,Cetirizine 10mg,Anti-Allergic,16-05-2023,2
+389,Dr. Iyer,Cardiologist,Kolkata,11,Female,Omeprazole 20mg,Gastro,14-09-2023,2
+390,Dr. Sharma,Dermatologist,Kolkata,55,Male,Metformin 500mg,Anti-Diabetic,28-08-2023,1
+391,Dr. Sharma,Pediatrician,Hyderabad,76,Male,Amoxicillin 250mg,Antibiotic,16-05-2023,5
+392,Dr. Singh,Dermatologist,Mumbai,16,Female,Paracetamol 500mg,Analgesic,18-12-2023,2
+393,Dr. Khan,Cardiologist,Delhi,14,Male,Azithromycin 500mg,Antibiotic,02-04-2023,3
+394,Dr. Iyer,General Physician,Delhi,83,Male,Azithromycin 500mg,Antibiotic,17-05-2023,1
+395,Dr. Gupta,Orthopedic,Mumbai,45,Male,Atorvastatin 10mg,Cardiac,26-03-2024,2
+396,Dr. Khan,Orthopedic,Kolkata,12,Male,Losartan 50mg,Cardiac,11-08-2023,2
+397,Dr. Sharma,Orthopedic,Kolkata,55,Female,Azithromycin 500mg,Antibiotic,26-12-2023,2
+398,Dr. Verma,General Physician,Kolkata,71,Female,Amoxicillin 250mg,Antibiotic,12-09-2023,1
+399,Dr. Singh,General Physician,Delhi,38,Male,Cetirizine 10mg,Anti-Allergic,06-02-2024,2
+400,Dr. Khan,Dermatologist,Mumbai,82,Male,Cetirizine 10mg,Anti-Allergic,26-05-2024,5
+401,Dr. Sharma,General Physician,Bengaluru,73,Female,Atorvastatin 10mg,Cardiac,01-02-2024,3
+402,Dr. Gupta,Pediatrician,Hyderabad,76,Male,Amoxicillin 250mg,Antibiotic,18-01-2023,1
+403,Dr. Iyer,Pediatrician,Mumbai,65,Female,Paracetamol 500mg,Analgesic,12-02-2024,5
+404,Dr. Khan,Dermatologist,Kolkata,82,Male,Azithromycin 500mg,Antibiotic,26-03-2023,3
+405,Dr. Sharma,General Physician,Mumbai,69,Female,Cetirizine 10mg,Anti-Allergic,09-06-2023,4
+406,Dr. Gupta,Cardiologist,Bengaluru,8,Male,Azithromycin 500mg,Antibiotic,02-09-2023,1
+407,Dr. Khan,Cardiologist,Hyderabad,86,Male,Paracetamol 500mg,Analgesic,13-11-2023,1
+408,Dr. Sharma,Pediatrician,Kolkata,64,Female,Paracetamol 500mg,Analgesic,17-06-2023,5
+409,Dr. Gupta,General Physician,Delhi,35,Male,Omeprazole 20mg,Gastro,10-05-2023,1
+410,Dr. Iyer,Dermatologist,Bengaluru,74,Male,Amoxicillin 250mg,Antibiotic,27-09-2023,4
+411,Dr. Khan,Orthopedic,Bengaluru,73,Male,Paracetamol 500mg,Analgesic,26-05-2024,3
+412,Dr. Verma,General Physician,Mumbai,66,Male,Amoxicillin 250mg,Antibiotic,22-08-2023,1
+413,Dr. Sharma,Pediatrician,Mumbai,50,Male,Losartan 50mg,Cardiac,08-01-2024,2
+414,Dr. Sharma,Orthopedic,Kolkata,42,Male,Azithromycin 500mg,Antibiotic,18-08-2023,4
+415,Dr. Singh,General Physician,Bengaluru,48,Male,Amoxicillin 250mg,Antibiotic,08-08-2024,5
+416,Dr. Singh,Cardiologist,Delhi,6,Female,Cetirizine 10mg,Anti-Allergic,12-06-2024,1
+417,Dr. Khan,General Physician,Bengaluru,71,Female,Omeprazole 20mg,Gastro,30-03-2023,1
+418,Dr. Iyer,Pediatrician,Bengaluru,60,Female,Metformin 500mg,Anti-Diabetic,06-09-2023,5
+419,Dr. Khan,Pediatrician,Kolkata,1,Female,Cetirizine 10mg,Anti-Allergic,04-06-2023,1
+420,Dr. Verma,Orthopedic,Bengaluru,1,Female,Paracetamol 500mg,Analgesic,10-12-2023,3
+421,Dr. Sharma,Pediatrician,Chennai,63,Male,Cetirizine 10mg,Anti-Allergic,05-03-2024,2
+422,Dr. Singh,General Physician,Mumbai,67,Female,Paracetamol 500mg,Analgesic,26-08-2023,3
+423,Dr. Khan,Cardiologist,Chennai,18,Female,Amoxicillin 250mg,Antibiotic,01-06-2024,1
+424,Dr. Gupta,Orthopedic,Mumbai,31,Female,Azithromycin 500mg,Antibiotic,14-05-2023,3
+425,Dr. Iyer,Dermatologist,Kolkata,58,Female,Omeprazole 20mg,Gastro,22-11-2023,2
+426,Dr. Sharma,Pediatrician,Delhi,14,Male,Amoxicillin 250mg,Antibiotic,09-06-2023,4
+427,Dr. Khan,General Physician,Hyderabad,46,Male,Amoxicillin 250mg,Antibiotic,02-07-2024,4
+428,Dr. Iyer,Dermatologist,Bengaluru,21,Female,Amoxicillin 250mg,Antibiotic,03-04-2023,5
+429,Dr. Sharma,Pediatrician,Bengaluru,32,Female,Atorvastatin 10mg,Cardiac,04-04-2023,4
+430,Dr. Gupta,Cardiologist,Kolkata,23,Male,Metformin 500mg,Anti-Diabetic,24-09-2023,4
+431,Dr. Khan,Orthopedic,Kolkata,60,Male,Cetirizine 10mg,Anti-Allergic,07-04-2023,2
+432,Dr. Sharma,Cardiologist,Mumbai,26,Female,Cetirizine 10mg,Anti-Allergic,14-05-2023,3
+433,Dr. Singh,Cardiologist,Chennai,3,Male,Metformin 500mg,Anti-Diabetic,18-03-2023,2
+434,Dr. Singh,Dermatologist,Delhi,16,Male,Amoxicillin 250mg,Antibiotic,06-12-2023,4
+435,Dr. Sharma,Pediatrician,Chennai,64,Male,Azithromycin 500mg,Antibiotic,09-02-2024,4
+436,Dr. Singh,Dermatologist,Delhi,24,Female,Omeprazole 20mg,Gastro,08-08-2023,3
+437,Dr. Khan,Pediatrician,Mumbai,64,Female,Cetirizine 10mg,Anti-Allergic,30-10-2023,5
+438,Dr. Khan,Cardiologist,Mumbai,18,Female,Metformin 500mg,Anti-Diabetic,28-01-2024,2
+439,Dr. Singh,Orthopedic,Delhi,46,Female,Paracetamol 500mg,Analgesic,27-01-2024,5
+440,Dr. Khan,General Physician,Chennai,35,Male,Omeprazole 20mg,Gastro,02-02-2024,1
+441,Dr. Iyer,Orthopedic,Delhi,8,Female,Paracetamol 500mg,Analgesic,15-10-2023,5
+442,Dr. Iyer,Orthopedic,Delhi,32,Male,Atorvastatin 10mg,Cardiac,13-04-2023,3
+443,Dr. Gupta,Cardiologist,Delhi,23,Male,Azithromycin 500mg,Antibiotic,30-12-2023,2
+444,Dr. Gupta,General Physician,Kolkata,90,Female,Omeprazole 20mg,Gastro,29-01-2023,5
+445,Dr. Gupta,Pediatrician,Chennai,70,Female,Cetirizine 10mg,Anti-Allergic,19-05-2024,2
+446,Dr. Khan,Cardiologist,Mumbai,78,Male,Paracetamol 500mg,Analgesic,27-08-2023,1
+447,Dr. Gupta,Dermatologist,Mumbai,17,Female,Omeprazole 20mg,Gastro,26-07-2023,2
+448,Dr. Iyer,Cardiologist,Mumbai,19,Male,Atorvastatin 10mg,Cardiac,23-08-2024,5
+449,Dr. Iyer,Cardiologist,Bengaluru,13,Female,Azithromycin 500mg,Antibiotic,23-08-2024,3
+450,Dr. Iyer,Pediatrician,Delhi,84,Female,Azithromycin 500mg,Antibiotic,13-05-2024,2
+451,Dr. Singh,Orthopedic,Kolkata,86,Male,Omeprazole 20mg,Gastro,17-08-2023,4
+452,Dr. Iyer,General Physician,Delhi,90,Female,Atorvastatin 10mg,Cardiac,02-01-2023,5
+453,Dr. Sharma,Pediatrician,Chennai,82,Male,Omeprazole 20mg,Gastro,15-08-2023,4
+454,Dr. Verma,General Physician,Kolkata,45,Female,Amoxicillin 250mg,Antibiotic,01-09-2023,2
+455,Dr. Singh,Cardiologist,Kolkata,2,Female,Omeprazole 20mg,Gastro,02-04-2024,2
+456,Dr. Verma,Cardiologist,Bengaluru,1,Male,Metformin 500mg,Anti-Diabetic,21-04-2023,4
+457,Dr. Khan,Dermatologist,Delhi,49,Female,Azithromycin 500mg,Antibiotic,19-05-2024,5
+458,Dr. Khan,Cardiologist,Hyderabad,58,Male,Cetirizine 10mg,Anti-Allergic,16-06-2023,1
+459,Dr. Iyer,Cardiologist,Bengaluru,10,Female,Metformin 500mg,Anti-Diabetic,18-04-2023,2
+460,Dr. Khan,Pediatrician,Kolkata,12,Female,Amoxicillin 250mg,Antibiotic,14-07-2024,5
+461,Dr. Gupta,Dermatologist,Kolkata,84,Male,Paracetamol 500mg,Analgesic,17-03-2024,5
+462,Dr. Khan,Pediatrician,Mumbai,27,Male,Amoxicillin 250mg,Antibiotic,06-12-2023,4
+463,Dr. Singh,Orthopedic,Kolkata,39,Male,Metformin 500mg,Anti-Diabetic,16-10-2023,1
+464,Dr. Sharma,Dermatologist,Chennai,7,Female,Losartan 50mg,Cardiac,07-06-2023,1
+465,Dr. Khan,Cardiologist,Bengaluru,13,Male,Losartan 50mg,Cardiac,24-07-2023,2
+466,Dr. Verma,General Physician,Mumbai,40,Female,Losartan 50mg,Cardiac,29-04-2023,4
+467,Dr. Khan,General Physician,Mumbai,48,Female,Azithromycin 500mg,Antibiotic,09-07-2023,3
+468,Dr. Verma,Dermatologist,Mumbai,60,Female,Metformin 500mg,Anti-Diabetic,26-03-2024,2
+469,Dr. Iyer,Orthopedic,Mumbai,11,Female,Atorvastatin 10mg,Cardiac,10-04-2023,5
+470,Dr. Khan,Orthopedic,Delhi,67,Female,Paracetamol 500mg,Analgesic,01-02-2024,5
+471,Dr. Singh,Dermatologist,Chennai,39,Male,Cetirizine 10mg,Anti-Allergic,02-05-2024,4
+472,Dr. Singh,Cardiologist,Chennai,58,Male,Atorvastatin 10mg,Cardiac,04-05-2023,2
+473,Dr. Verma,Pediatrician,Delhi,11,Female,Paracetamol 500mg,Analgesic,09-03-2024,2
+474,Dr. Singh,Pediatrician,Chennai,9,Male,Metformin 500mg,Anti-Diabetic,24-11-2023,4
+475,Dr. Gupta,Dermatologist,Chennai,67,Female,Omeprazole 20mg,Gastro,10-10-2023,1
+476,Dr. Singh,Orthopedic,Chennai,54,Male,Azithromycin 500mg,Antibiotic,26-04-2023,2
+477,Dr. Gupta,Orthopedic,Chennai,73,Male,Amoxicillin 250mg,Antibiotic,19-04-2023,3
+478,Dr. Gupta,General Physician,Hyderabad,84,Female,Metformin 500mg,Anti-Diabetic,28-01-2024,5
+479,Dr. Gupta,Dermatologist,Mumbai,52,Male,Atorvastatin 10mg,Cardiac,10-10-2023,5
+480,Dr. Gupta,Dermatologist,Mumbai,89,Male,Azithromycin 500mg,Antibiotic,06-12-2023,1
+481,Dr. Singh,Dermatologist,Bengaluru,44,Female,Omeprazole 20mg,Gastro,21-01-2023,3
+482,Dr. Iyer,Dermatologist,Kolkata,18,Female,Amoxicillin 250mg,Antibiotic,22-08-2023,4
+483,Dr. Iyer,General Physician,Kolkata,25,Female,Azithromycin 500mg,Antibiotic,02-04-2023,2
+484,Dr. Khan,Dermatologist,Chennai,66,Male,Omeprazole 20mg,Gastro,27-02-2023,1
+485,Dr. Iyer,Orthopedic,Hyderabad,73,Male,Atorvastatin 10mg,Cardiac,20-06-2024,2
+486,Dr. Verma,Pediatrician,Mumbai,59,Male,Cetirizine 10mg,Anti-Allergic,03-02-2023,3
+487,Dr. Singh,Pediatrician,Bengaluru,65,Female,Omeprazole 20mg,Gastro,20-04-2024,1
+488,Dr. Singh,Cardiologist,Delhi,77,Female,Omeprazole 20mg,Gastro,15-05-2024,2
+489,Dr. Khan,Orthopedic,Chennai,21,Female,Omeprazole 20mg,Gastro,19-12-2023,1
+490,Dr. Iyer,Cardiologist,Hyderabad,74,Male,Paracetamol 500mg,Analgesic,16-06-2023,2
+491,Dr. Singh,Pediatrician,Kolkata,84,Female,Cetirizine 10mg,Anti-Allergic,03-10-2023,5
+492,Dr. Sharma,Cardiologist,Hyderabad,77,Male,Atorvastatin 10mg,Cardiac,27-06-2023,2
+493,Dr. Iyer,Orthopedic,Bengaluru,49,Female,Metformin 500mg,Anti-Diabetic,09-03-2024,4
+494,Dr. Iyer,Pediatrician,Hyderabad,80,Female,Metformin 500mg,Anti-Diabetic,17-06-2024,5
+495,Dr. Sharma,Cardiologist,Chennai,83,Female,Omeprazole 20mg,Gastro,28-07-2024,3
+496,Dr. Singh,Cardiologist,Hyderabad,36,Female,Amoxicillin 250mg,Antibiotic,11-12-2023,3
+497,Dr. Iyer,General Physician,Delhi,31,Male,Atorvastatin 10mg,Cardiac,13-06-2024,5
+498,Dr. Khan,General Physician,Kolkata,84,Female,Atorvastatin 10mg,Cardiac,27-01-2023,3
+499,Dr. Iyer,Dermatologist,Hyderabad,75,Male,Azithromycin 500mg,Antibiotic,06-02-2023,3
+500,Dr. Singh,Pediatrician,Kolkata,65,Female,Losartan 50mg,Cardiac,03-01-2024,2
+501,Dr. Singh,Orthopedic,Delhi,61,Male,Metformin 500mg,Anti-Diabetic,10-04-2023,3
+502,Dr. Singh,Orthopedic,Delhi,29,Female,Omeprazole 20mg,Gastro,02-04-2023,2
+503,Dr. Singh,General Physician,Hyderabad,34,Female,Omeprazole 20mg,Gastro,16-01-2024,4
+504,Dr. Sharma,Dermatologist,Mumbai,25,Male,Amoxicillin 250mg,Antibiotic,28-04-2024,4
+505,Dr. Gupta,General Physician,Hyderabad,18,Male,Paracetamol 500mg,Analgesic,04-06-2023,3
+506,Dr. Khan,Orthopedic,Hyderabad,24,Male,Atorvastatin 10mg,Cardiac,20-11-2023,4
+507,Dr. Iyer,Pediatrician,Bengaluru,58,Female,Paracetamol 500mg,Analgesic,05-01-2023,2
+508,Dr. Verma,Orthopedic,Delhi,17,Female,Losartan 50mg,Cardiac,01-04-2023,4
+509,Dr. Khan,Dermatologist,Hyderabad,5,Male,Azithromycin 500mg,Antibiotic,05-01-2023,3
+510,Dr. Sharma,General Physician,Chennai,87,Male,Cetirizine 10mg,Anti-Allergic,19-01-2023,2
+511,Dr. Verma,General Physician,Bengaluru,50,Female,Atorvastatin 10mg,Cardiac,16-04-2023,2
+512,Dr. Sharma,Cardiologist,Bengaluru,67,Female,Metformin 500mg,Anti-Diabetic,11-04-2024,4
+513,Dr. Singh,Pediatrician,Bengaluru,25,Male,Losartan 50mg,Cardiac,03-01-2024,4
+514,Dr. Sharma,Pediatrician,Delhi,3,Male,Atorvastatin 10mg,Cardiac,05-08-2023,1
+515,Dr. Iyer,Cardiologist,Hyderabad,80,Male,Metformin 500mg,Anti-Diabetic,01-07-2024,5
+516,Dr. Sharma,Cardiologist,Kolkata,89,Male,Paracetamol 500mg,Analgesic,19-02-2023,4
+517,Dr. Khan,Dermatologist,Mumbai,90,Male,Metformin 500mg,Anti-Diabetic,30-04-2024,2
+518,Dr. Singh,Cardiologist,Bengaluru,85,Female,Azithromycin 500mg,Antibiotic,14-04-2023,5
+519,Dr. Gupta,Pediatrician,Hyderabad,80,Male,Amoxicillin 250mg,Antibiotic,07-06-2024,3
+520,Dr. Sharma,Cardiologist,Hyderabad,34,Male,Cetirizine 10mg,Anti-Allergic,24-07-2023,3
+521,Dr. Singh,Dermatologist,Bengaluru,71,Female,Atorvastatin 10mg,Cardiac,10-02-2023,2
+522,Dr. Singh,Dermatologist,Bengaluru,2,Male,Cetirizine 10mg,Anti-Allergic,03-01-2023,1
+523,Dr. Gupta,Dermatologist,Delhi,10,Male,Amoxicillin 250mg,Antibiotic,07-06-2024,3
+524,Dr. Singh,Pediatrician,Hyderabad,60,Male,Metformin 500mg,Anti-Diabetic,28-09-2023,1
+525,Dr. Verma,Cardiologist,Bengaluru,55,Male,Omeprazole 20mg,Gastro,17-11-2023,1
+526,Dr. Sharma,Cardiologist,Delhi,46,Female,Atorvastatin 10mg,Cardiac,03-12-2023,5
+527,Dr. Iyer,Cardiologist,Bengaluru,15,Female,Omeprazole 20mg,Gastro,07-07-2023,4
+528,Dr. Khan,General Physician,Hyderabad,84,Male,Losartan 50mg,Cardiac,07-03-2024,1
+529,Dr. Verma,Cardiologist,Delhi,76,Female,Amoxicillin 250mg,Antibiotic,02-03-2024,5
+530,Dr. Singh,Dermatologist,Delhi,79,Male,Azithromycin 500mg,Antibiotic,03-01-2024,2
+531,Dr. Khan,Dermatologist,Mumbai,6,Male,Azithromycin 500mg,Antibiotic,27-03-2024,3
+532,Dr. Singh,General Physician,Mumbai,67,Male,Cetirizine 10mg,Anti-Allergic,13-12-2023,4
+533,Dr. Singh,Pediatrician,Hyderabad,20,Male,Omeprazole 20mg,Gastro,30-01-2024,1
+534,Dr. Singh,Pediatrician,Chennai,22,Male,Losartan 50mg,Cardiac,22-05-2024,4
+535,Dr. Iyer,Pediatrician,Bengaluru,65,Male,Metformin 500mg,Anti-Diabetic,21-02-2023,5
+536,Dr. Singh,Dermatologist,Hyderabad,59,Female,Cetirizine 10mg,Anti-Allergic,22-03-2023,5
+537,Dr. Khan,Cardiologist,Hyderabad,16,Female,Losartan 50mg,Cardiac,20-11-2023,1
+538,Dr. Sharma,Dermatologist,Hyderabad,71,Male,Paracetamol 500mg,Analgesic,24-07-2024,1
+539,Dr. Gupta,Orthopedic,Kolkata,72,Male,Metformin 500mg,Anti-Diabetic,04-06-2024,4
+540,Dr. Iyer,General Physician,Mumbai,43,Female,Cetirizine 10mg,Anti-Allergic,10-04-2024,3
+541,Dr. Singh,Dermatologist,Mumbai,1,Female,Amoxicillin 250mg,Antibiotic,16-08-2023,3
+542,Dr. Singh,General Physician,Chennai,6,Male,Omeprazole 20mg,Gastro,19-04-2023,4
+543,Dr. Verma,Dermatologist,Mumbai,25,Male,Metformin 500mg,Anti-Diabetic,20-07-2023,4
+544,Dr. Verma,Dermatologist,Delhi,54,Male,Omeprazole 20mg,Gastro,21-04-2023,5
+545,Dr. Sharma,Dermatologist,Hyderabad,1,Male,Atorvastatin 10mg,Cardiac,25-05-2024,5
+546,Dr. Khan,Orthopedic,Hyderabad,23,Male,Atorvastatin 10mg,Cardiac,15-08-2024,1
+547,Dr. Khan,Orthopedic,Chennai,50,Female,Omeprazole 20mg,Gastro,31-05-2024,5
+548,Dr. Singh,Pediatrician,Bengaluru,38,Female,Azithromycin 500mg,Antibiotic,18-12-2023,2
+549,Dr. Verma,Dermatologist,Chennai,41,Male,Metformin 500mg,Anti-Diabetic,14-07-2024,2
+550,Dr. Verma,Orthopedic,Kolkata,87,Male,Metformin 500mg,Anti-Diabetic,20-12-2023,2
+551,Dr. Gupta,Orthopedic,Kolkata,46,Female,Omeprazole 20mg,Gastro,29-04-2023,5
+552,Dr. Gupta,Dermatologist,Kolkata,2,Male,Metformin 500mg,Anti-Diabetic,08-03-2024,1
+553,Dr. Khan,Pediatrician,Mumbai,35,Male,Paracetamol 500mg,Analgesic,24-07-2023,3
+554,Dr. Singh,General Physician,Delhi,27,Male,Paracetamol 500mg,Analgesic,30-10-2023,3
+555,Dr. Khan,Cardiologist,Chennai,50,Male,Cetirizine 10mg,Anti-Allergic,28-07-2024,5
+556,Dr. Singh,General Physician,Kolkata,50,Female,Paracetamol 500mg,Analgesic,26-01-2024,3
+557,Dr. Gupta,Cardiologist,Mumbai,80,Female,Metformin 500mg,Anti-Diabetic,27-07-2023,2
+558,Dr. Singh,General Physician,Chennai,38,Female,Cetirizine 10mg,Anti-Allergic,18-07-2023,2
+559,Dr. Singh,Cardiologist,Delhi,16,Female,Atorvastatin 10mg,Cardiac,10-06-2024,1
+560,Dr. Khan,General Physician,Chennai,21,Female,Metformin 500mg,Anti-Diabetic,14-05-2023,1
+561,Dr. Iyer,Dermatologist,Kolkata,20,Female,Atorvastatin 10mg,Cardiac,10-02-2023,5
+562,Dr. Sharma,Orthopedic,Kolkata,74,Female,Metformin 500mg,Anti-Diabetic,17-05-2024,1
+563,Dr. Singh,General Physician,Chennai,67,Male,Cetirizine 10mg,Anti-Allergic,08-07-2023,5
+564,Dr. Verma,Dermatologist,Chennai,45,Male,Azithromycin 500mg,Antibiotic,05-04-2023,2
+565,Dr. Singh,General Physician,Bengaluru,28,Female,Omeprazole 20mg,Gastro,28-10-2023,5
+566,Dr. Singh,Cardiologist,Mumbai,31,Male,Omeprazole 20mg,Gastro,01-04-2024,1
+567,Dr. Singh,General Physician,Hyderabad,33,Female,Amoxicillin 250mg,Antibiotic,31-01-2024,1
+568,Dr. Gupta,General Physician,Chennai,6,Female,Losartan 50mg,Cardiac,13-05-2024,2
+569,Dr. Iyer,Orthopedic,Mumbai,69,Male,Amoxicillin 250mg,Antibiotic,21-06-2023,1
+570,Dr. Verma,Pediatrician,Kolkata,27,Female,Azithromycin 500mg,Antibiotic,17-04-2023,1
+571,Dr. Singh,Pediatrician,Mumbai,5,Male,Losartan 50mg,Cardiac,06-12-2023,1
+572,Dr. Sharma,Pediatrician,Bengaluru,30,Female,Amoxicillin 250mg,Antibiotic,11-08-2024,4
+573,Dr. Khan,Dermatologist,Kolkata,41,Male,Azithromycin 500mg,Antibiotic,19-03-2024,4
+574,Dr. Singh,Cardiologist,Chennai,75,Male,Paracetamol 500mg,Analgesic,06-03-2023,1
+575,Dr. Iyer,Orthopedic,Mumbai,78,Male,Metformin 500mg,Anti-Diabetic,05-11-2023,3
+576,Dr. Khan,Dermatologist,Hyderabad,21,Male,Paracetamol 500mg,Analgesic,30-04-2024,2
+577,Dr. Singh,Dermatologist,Chennai,39,Female,Metformin 500mg,Anti-Diabetic,28-05-2023,1
+578,Dr. Gupta,Orthopedic,Delhi,1,Female,Amoxicillin 250mg,Antibiotic,12-02-2023,5
+579,Dr. Gupta,Cardiologist,Bengaluru,28,Female,Cetirizine 10mg,Anti-Allergic,19-12-2023,5
+580,Dr. Verma,Pediatrician,Delhi,25,Male,Cetirizine 10mg,Anti-Allergic,16-09-2023,2
+581,Dr. Singh,Orthopedic,Mumbai,10,Female,Losartan 50mg,Cardiac,16-07-2024,1
+582,Dr. Iyer,Cardiologist,Delhi,46,Male,Losartan 50mg,Cardiac,05-12-2023,2
+583,Dr. Sharma,General Physician,Chennai,41,Female,Amoxicillin 250mg,Antibiotic,18-07-2023,4
+584,Dr. Iyer,Orthopedic,Kolkata,20,Female,Metformin 500mg,Anti-Diabetic,21-08-2024,3
+585,Dr. Khan,Pediatrician,Mumbai,29,Female,Omeprazole 20mg,Gastro,10-09-2023,3
+586,Dr. Iyer,Pediatrician,Kolkata,60,Female,Omeprazole 20mg,Gastro,06-05-2024,3
+587,Dr. Iyer,Dermatologist,Chennai,83,Male,Amoxicillin 250mg,Antibiotic,29-06-2023,3
+588,Dr. Verma,Orthopedic,Delhi,10,Male,Metformin 500mg,Anti-Diabetic,20-03-2023,5
+589,Dr. Singh,Cardiologist,Chennai,5,Female,Azithromycin 500mg,Antibiotic,06-08-2023,5
+590,Dr. Gupta,Dermatologist,Kolkata,51,Male,Atorvastatin 10mg,Cardiac,10-01-2024,5
+591,Dr. Singh,General Physician,Delhi,66,Male,Losartan 50mg,Cardiac,28-05-2024,4
+592,Dr. Iyer,Orthopedic,Mumbai,66,Male,Cetirizine 10mg,Anti-Allergic,19-06-2023,4
+593,Dr. Verma,Pediatrician,Chennai,46,Male,Atorvastatin 10mg,Cardiac,10-05-2024,2
+594,Dr. Khan,Pediatrician,Mumbai,30,Male,Metformin 500mg,Anti-Diabetic,14-01-2024,2
+595,Dr. Gupta,General Physician,Hyderabad,6,Male,Losartan 50mg,Cardiac,10-04-2024,3
+596,Dr. Sharma,Orthopedic,Kolkata,75,Male,Metformin 500mg,Anti-Diabetic,27-09-2023,4
+597,Dr. Singh,Dermatologist,Bengaluru,33,Female,Amoxicillin 250mg,Antibiotic,13-06-2024,2
+598,Dr. Gupta,Dermatologist,Bengaluru,62,Male,Omeprazole 20mg,Gastro,13-05-2024,5
+599,Dr. Verma,Dermatologist,Delhi,66,Female,Cetirizine 10mg,Anti-Allergic,20-03-2023,2
+600,Dr. Verma,Pediatrician,Delhi,85,Male,Omeprazole 20mg,Gastro,02-05-2023,4
+601,Dr. Iyer,Cardiologist,Hyderabad,27,Male,Losartan 50mg,Cardiac,05-05-2024,4
+602,Dr. Sharma,Pediatrician,Mumbai,76,Male,Atorvastatin 10mg,Cardiac,10-08-2024,2
+603,Dr. Singh,Orthopedic,Mumbai,22,Female,Atorvastatin 10mg,Cardiac,27-02-2023,2
+604,Dr. Gupta,Dermatologist,Chennai,11,Male,Paracetamol 500mg,Analgesic,18-10-2023,4
+605,Dr. Gupta,Dermatologist,Hyderabad,53,Male,Atorvastatin 10mg,Cardiac,13-08-2023,5
+606,Dr. Verma,Orthopedic,Kolkata,88,Female,Metformin 500mg,Anti-Diabetic,21-06-2023,4
+607,Dr. Gupta,Orthopedic,Mumbai,50,Male,Cetirizine 10mg,Anti-Allergic,23-01-2024,1
+608,Dr. Sharma,Pediatrician,Chennai,78,Male,Azithromycin 500mg,Antibiotic,03-06-2023,2
+609,Dr. Khan,Orthopedic,Chennai,65,Male,Paracetamol 500mg,Analgesic,28-06-2024,1
+610,Dr. Khan,Pediatrician,Chennai,67,Female,Paracetamol 500mg,Analgesic,17-03-2024,3
+611,Dr. Sharma,Orthopedic,Hyderabad,49,Female,Cetirizine 10mg,Anti-Allergic,08-05-2024,5
+612,Dr. Singh,Orthopedic,Mumbai,33,Female,Azithromycin 500mg,Antibiotic,18-05-2023,2
+613,Dr. Sharma,General Physician,Chennai,25,Male,Azithromycin 500mg,Antibiotic,21-09-2023,1
+614,Dr. Gupta,Orthopedic,Mumbai,84,Male,Paracetamol 500mg,Analgesic,20-01-2024,3
+615,Dr. Khan,General Physician,Mumbai,84,Female,Atorvastatin 10mg,Cardiac,12-03-2024,3
+616,Dr. Gupta,Dermatologist,Chennai,88,Female,Omeprazole 20mg,Gastro,10-10-2023,2
+617,Dr. Khan,Orthopedic,Chennai,48,Female,Losartan 50mg,Cardiac,03-07-2023,3
+618,Dr. Iyer,Orthopedic,Bengaluru,85,Male,Azithromycin 500mg,Antibiotic,22-05-2023,2
+619,Dr. Khan,Pediatrician,Mumbai,52,Female,Cetirizine 10mg,Anti-Allergic,04-06-2024,5
+620,Dr. Gupta,Cardiologist,Delhi,12,Male,Azithromycin 500mg,Antibiotic,06-01-2023,4
+621,Dr. Gupta,Dermatologist,Mumbai,29,Female,Amoxicillin 250mg,Antibiotic,27-09-2023,1
+622,Dr. Gupta,Cardiologist,Kolkata,79,Female,Azithromycin 500mg,Antibiotic,15-02-2024,5
+623,Dr. Sharma,Pediatrician,Kolkata,2,Male,Losartan 50mg,Cardiac,25-03-2024,5
+624,Dr. Iyer,Pediatrician,Mumbai,87,Male,Cetirizine 10mg,Anti-Allergic,23-06-2023,3
+625,Dr. Verma,Cardiologist,Delhi,52,Female,Amoxicillin 250mg,Antibiotic,10-10-2023,4
+626,Dr. Khan,Orthopedic,Delhi,12,Female,Paracetamol 500mg,Analgesic,12-03-2023,5
+627,Dr. Gupta,General Physician,Bengaluru,78,Male,Metformin 500mg,Anti-Diabetic,20-08-2023,4
+628,Dr. Khan,Orthopedic,Mumbai,53,Male,Metformin 500mg,Anti-Diabetic,29-06-2023,5
+629,Dr. Sharma,Orthopedic,Bengaluru,66,Female,Omeprazole 20mg,Gastro,30-04-2023,5
+630,Dr. Gupta,General Physician,Kolkata,73,Female,Losartan 50mg,Cardiac,22-01-2024,2
+631,Dr. Iyer,Dermatologist,Kolkata,4,Female,Losartan 50mg,Cardiac,23-08-2024,1
+632,Dr. Iyer,Cardiologist,Hyderabad,41,Female,Cetirizine 10mg,Anti-Allergic,24-08-2023,3
+633,Dr. Gupta,Orthopedic,Mumbai,37,Male,Metformin 500mg,Anti-Diabetic,12-09-2023,4
+634,Dr. Singh,General Physician,Mumbai,41,Female,Atorvastatin 10mg,Cardiac,02-05-2024,2
+635,Dr. Gupta,General Physician,Delhi,26,Male,Cetirizine 10mg,Anti-Allergic,25-05-2024,2
+636,Dr. Iyer,Pediatrician,Delhi,80,Female,Cetirizine 10mg,Anti-Allergic,13-09-2023,2
+637,Dr. Sharma,Cardiologist,Mumbai,70,Male,Losartan 50mg,Cardiac,07-01-2023,4
+638,Dr. Iyer,Orthopedic,Bengaluru,36,Female,Losartan 50mg,Cardiac,11-08-2024,2
+639,Dr. Gupta,General Physician,Hyderabad,17,Male,Cetirizine 10mg,Anti-Allergic,13-08-2024,5
+640,Dr. Khan,Dermatologist,Chennai,45,Female,Paracetamol 500mg,Analgesic,29-05-2024,2
+641,Dr. Khan,Cardiologist,Kolkata,89,Male,Losartan 50mg,Cardiac,20-11-2023,1
+642,Dr. Singh,Pediatrician,Hyderabad,47,Female,Amoxicillin 250mg,Antibiotic,30-11-2023,2
+643,Dr. Gupta,General Physician,Delhi,79,Female,Metformin 500mg,Anti-Diabetic,27-04-2024,3
+644,Dr. Verma,Dermatologist,Hyderabad,90,Female,Cetirizine 10mg,Anti-Allergic,05-03-2024,3
+645,Dr. Khan,General Physician,Hyderabad,17,Male,Atorvastatin 10mg,Cardiac,08-08-2024,1
+646,Dr. Singh,General Physician,Delhi,26,Male,Azithromycin 500mg,Antibiotic,26-01-2024,2
+647,Dr. Khan,Cardiologist,Delhi,18,Female,Azithromycin 500mg,Antibiotic,26-05-2024,4
+648,Dr. Iyer,General Physician,Chennai,13,Male,Paracetamol 500mg,Analgesic,12-02-2024,1
+649,Dr. Verma,General Physician,Hyderabad,43,Female,Amoxicillin 250mg,Antibiotic,05-04-2024,3
+650,Dr. Iyer,Orthopedic,Chennai,3,Female,Metformin 500mg,Anti-Diabetic,19-12-2023,1
+651,Dr. Iyer,Orthopedic,Delhi,46,Female,Atorvastatin 10mg,Cardiac,19-10-2023,5
+652,Dr. Khan,Dermatologist,Mumbai,60,Male,Azithromycin 500mg,Antibiotic,21-10-2023,2
+653,Dr. Singh,General Physician,Hyderabad,11,Male,Azithromycin 500mg,Antibiotic,15-03-2023,3
+654,Dr. Verma,General Physician,Bengaluru,78,Female,Metformin 500mg,Anti-Diabetic,01-10-2023,3
+655,Dr. Khan,General Physician,Kolkata,22,Male,Losartan 50mg,Cardiac,28-02-2024,1
+656,Dr. Verma,Pediatrician,Kolkata,27,Male,Metformin 500mg,Anti-Diabetic,23-03-2023,4
+657,Dr. Sharma,Cardiologist,Mumbai,7,Male,Losartan 50mg,Cardiac,15-07-2024,4
+658,Dr. Gupta,Cardiologist,Mumbai,11,Female,Metformin 500mg,Anti-Diabetic,09-06-2023,3
+659,Dr. Verma,Pediatrician,Kolkata,81,Male,Metformin 500mg,Anti-Diabetic,29-03-2024,2
+660,Dr. Gupta,Pediatrician,Mumbai,42,Female,Paracetamol 500mg,Analgesic,01-01-2024,4
+661,Dr. Gupta,General Physician,Chennai,90,Male,Losartan 50mg,Cardiac,19-05-2023,5
+662,Dr. Gupta,Dermatologist,Kolkata,82,Female,Azithromycin 500mg,Antibiotic,20-06-2024,3
+663,Dr. Khan,Orthopedic,Delhi,40,Female,Amoxicillin 250mg,Antibiotic,28-03-2024,4
+664,Dr. Iyer,Pediatrician,Bengaluru,67,Male,Paracetamol 500mg,Analgesic,01-01-2023,3
+665,Dr. Iyer,Dermatologist,Chennai,62,Female,Paracetamol 500mg,Analgesic,18-05-2024,1
+666,Dr. Khan,General Physician,Chennai,71,Female,Cetirizine 10mg,Anti-Allergic,08-01-2023,2
+667,Dr. Khan,Orthopedic,Hyderabad,21,Female,Azithromycin 500mg,Antibiotic,13-09-2023,4
+668,Dr. Verma,General Physician,Mumbai,67,Female,Azithromycin 500mg,Antibiotic,03-09-2023,3
+669,Dr. Singh,Orthopedic,Bengaluru,9,Male,Azithromycin 500mg,Antibiotic,12-07-2023,2
+670,Dr. Iyer,Cardiologist,Kolkata,35,Female,Losartan 50mg,Cardiac,08-04-2024,2
+671,Dr. Iyer,Cardiologist,Delhi,3,Male,Paracetamol 500mg,Analgesic,01-07-2024,1
+672,Dr. Iyer,General Physician,Delhi,30,Male,Losartan 50mg,Cardiac,09-01-2023,2
+673,Dr. Sharma,Dermatologist,Delhi,40,Female,Omeprazole 20mg,Gastro,06-03-2024,3
+674,Dr. Khan,Cardiologist,Bengaluru,8,Female,Amoxicillin 250mg,Antibiotic,30-05-2023,4
+675,Dr. Sharma,Orthopedic,Hyderabad,33,Female,Atorvastatin 10mg,Cardiac,16-07-2023,1
+676,Dr. Sharma,Pediatrician,Hyderabad,5,Male,Losartan 50mg,Cardiac,11-09-2023,4
+677,Dr. Singh,Cardiologist,Chennai,50,Female,Cetirizine 10mg,Anti-Allergic,29-04-2024,3
+678,Dr. Verma,Cardiologist,Kolkata,62,Female,Amoxicillin 250mg,Antibiotic,17-09-2023,2
+679,Dr. Iyer,Cardiologist,Kolkata,31,Female,Cetirizine 10mg,Anti-Allergic,26-04-2023,3
+680,Dr. Sharma,Pediatrician,Bengaluru,32,Male,Amoxicillin 250mg,Antibiotic,10-02-2024,1
+681,Dr. Gupta,Dermatologist,Kolkata,12,Male,Atorvastatin 10mg,Cardiac,16-01-2024,2
+682,Dr. Khan,Cardiologist,Kolkata,8,Female,Omeprazole 20mg,Gastro,03-03-2023,2
+683,Dr. Singh,Orthopedic,Mumbai,30,Female,Atorvastatin 10mg,Cardiac,14-05-2024,5
+684,Dr. Singh,General Physician,Hyderabad,89,Female,Cetirizine 10mg,Anti-Allergic,22-01-2023,3
+685,Dr. Singh,Pediatrician,Bengaluru,57,Female,Paracetamol 500mg,Analgesic,11-05-2024,5
+686,Dr. Singh,Dermatologist,Delhi,45,Female,Atorvastatin 10mg,Cardiac,10-07-2024,4
+687,Dr. Iyer,Orthopedic,Chennai,68,Male,Atorvastatin 10mg,Cardiac,12-03-2023,4
+688,Dr. Iyer,General Physician,Chennai,1,Female,Omeprazole 20mg,Gastro,09-04-2024,2
+689,Dr. Sharma,Orthopedic,Bengaluru,9,Female,Cetirizine 10mg,Anti-Allergic,25-11-2023,2
+690,Dr. Gupta,Dermatologist,Chennai,42,Female,Atorvastatin 10mg,Cardiac,17-10-2023,3
+691,Dr. Sharma,Cardiologist,Chennai,17,Male,Amoxicillin 250mg,Antibiotic,14-02-2023,1
+692,Dr. Verma,Cardiologist,Hyderabad,5,Female,Cetirizine 10mg,Anti-Allergic,12-04-2023,4
+693,Dr. Gupta,Orthopedic,Kolkata,47,Male,Metformin 500mg,Anti-Diabetic,20-02-2023,5
+694,Dr. Singh,Cardiologist,Mumbai,11,Female,Cetirizine 10mg,Anti-Allergic,18-05-2024,1
+695,Dr. Iyer,Orthopedic,Kolkata,8,Female,Azithromycin 500mg,Antibiotic,13-01-2024,5
+696,Dr. Sharma,Cardiologist,Bengaluru,67,Male,Amoxicillin 250mg,Antibiotic,10-08-2023,1
+697,Dr. Singh,Pediatrician,Chennai,25,Male,Azithromycin 500mg,Antibiotic,14-07-2023,5
+698,Dr. Singh,Pediatrician,Chennai,82,Female,Azithromycin 500mg,Antibiotic,19-04-2023,4
+699,Dr. Singh,Dermatologist,Mumbai,71,Female,Atorvastatin 10mg,Cardiac,04-07-2023,5
+700,Dr. Iyer,Pediatrician,Chennai,41,Female,Losartan 50mg,Cardiac,27-12-2023,3
+701,Dr. Khan,Dermatologist,Kolkata,73,Male,Omeprazole 20mg,Gastro,04-09-2023,4
+702,Dr. Gupta,General Physician,Bengaluru,51,Male,Losartan 50mg,Cardiac,03-04-2024,1
+703,Dr. Iyer,Orthopedic,Mumbai,1,Female,Atorvastatin 10mg,Cardiac,06-11-2023,2
+704,Dr. Verma,General Physician,Mumbai,66,Male,Metformin 500mg,Anti-Diabetic,20-07-2024,1
+705,Dr. Sharma,Dermatologist,Bengaluru,34,Female,Atorvastatin 10mg,Cardiac,22-05-2023,5
+706,Dr. Verma,Pediatrician,Bengaluru,74,Female,Metformin 500mg,Anti-Diabetic,05-04-2023,5
+707,Dr. Verma,Cardiologist,Kolkata,23,Female,Omeprazole 20mg,Gastro,09-05-2024,5
+708,Dr. Sharma,Orthopedic,Kolkata,74,Female,Metformin 500mg,Anti-Diabetic,08-02-2023,1
+709,Dr. Sharma,General Physician,Bengaluru,16,Male,Azithromycin 500mg,Antibiotic,02-03-2024,5
+710,Dr. Sharma,Dermatologist,Mumbai,6,Female,Metformin 500mg,Anti-Diabetic,20-06-2024,5
+711,Dr. Gupta,Pediatrician,Bengaluru,7,Female,Cetirizine 10mg,Anti-Allergic,06-06-2023,4
+712,Dr. Gupta,Orthopedic,Chennai,56,Female,Amoxicillin 250mg,Antibiotic,16-08-2023,4
+713,Dr. Verma,Pediatrician,Bengaluru,74,Male,Amoxicillin 250mg,Antibiotic,02-05-2024,5
+714,Dr. Khan,General Physician,Mumbai,56,Male,Azithromycin 500mg,Antibiotic,28-05-2024,2
+715,Dr. Khan,Orthopedic,Delhi,84,Male,Losartan 50mg,Cardiac,09-02-2024,5
+716,Dr. Gupta,Orthopedic,Delhi,35,Female,Cetirizine 10mg,Anti-Allergic,15-03-2023,3
+717,Dr. Singh,Orthopedic,Mumbai,55,Female,Amoxicillin 250mg,Antibiotic,28-02-2024,3
+718,Dr. Verma,General Physician,Bengaluru,22,Female,Paracetamol 500mg,Analgesic,09-11-2023,5
+719,Dr. Khan,Orthopedic,Delhi,30,Male,Losartan 50mg,Cardiac,15-02-2023,3
+720,Dr. Verma,Cardiologist,Mumbai,80,Male,Paracetamol 500mg,Analgesic,06-09-2023,3
+721,Dr. Sharma,General Physician,Kolkata,58,Female,Amoxicillin 250mg,Antibiotic,09-11-2023,1
+722,Dr. Iyer,Pediatrician,Kolkata,70,Female,Cetirizine 10mg,Anti-Allergic,28-07-2023,5
+723,Dr. Khan,Orthopedic,Kolkata,49,Male,Atorvastatin 10mg,Cardiac,19-01-2023,3
+724,Dr. Verma,Cardiologist,Bengaluru,7,Female,Cetirizine 10mg,Anti-Allergic,05-10-2023,1
+725,Dr. Sharma,Dermatologist,Kolkata,14,Male,Metformin 500mg,Anti-Diabetic,04-01-2024,3
+726,Dr. Singh,Dermatologist,Delhi,13,Female,Azithromycin 500mg,Antibiotic,04-06-2024,4
+727,Dr. Gupta,Orthopedic,Mumbai,65,Female,Atorvastatin 10mg,Cardiac,23-07-2023,5
+728,Dr. Singh,Cardiologist,Mumbai,40,Female,Cetirizine 10mg,Anti-Allergic,26-06-2024,4
+729,Dr. Khan,Pediatrician,Mumbai,46,Female,Omeprazole 20mg,Gastro,27-12-2023,2
+730,Dr. Gupta,General Physician,Mumbai,4,Female,Metformin 500mg,Anti-Diabetic,01-02-2024,2
+731,Dr. Verma,General Physician,Hyderabad,49,Male,Atorvastatin 10mg,Cardiac,31-03-2023,4
+732,Dr. Verma,Orthopedic,Delhi,78,Female,Azithromycin 500mg,Antibiotic,16-11-2023,4
+733,Dr. Gupta,Pediatrician,Delhi,70,Male,Atorvastatin 10mg,Cardiac,17-08-2024,2
+734,Dr. Iyer,Orthopedic,Delhi,84,Male,Azithromycin 500mg,Antibiotic,29-05-2023,3
+735,Dr. Sharma,Orthopedic,Chennai,41,Male,Amoxicillin 250mg,Antibiotic,08-07-2023,1
+736,Dr. Iyer,Dermatologist,Hyderabad,82,Female,Metformin 500mg,Anti-Diabetic,29-03-2024,2
+737,Dr. Verma,Cardiologist,Delhi,79,Female,Atorvastatin 10mg,Cardiac,27-01-2023,5
+738,Dr. Gupta,Orthopedic,Delhi,88,Male,Cetirizine 10mg,Anti-Allergic,25-08-2023,3
+739,Dr. Sharma,Dermatologist,Delhi,24,Female,Losartan 50mg,Cardiac,18-01-2024,4
+740,Dr. Khan,Pediatrician,Delhi,5,Female,Cetirizine 10mg,Anti-Allergic,20-08-2023,1
+741,Dr. Iyer,Dermatologist,Delhi,9,Male,Cetirizine 10mg,Anti-Allergic,29-07-2023,4
+742,Dr. Gupta,Dermatologist,Kolkata,32,Female,Omeprazole 20mg,Gastro,13-04-2024,4
+743,Dr. Sharma,Orthopedic,Kolkata,51,Male,Azithromycin 500mg,Antibiotic,17-11-2023,5
+744,Dr. Sharma,Dermatologist,Hyderabad,67,Female,Paracetamol 500mg,Analgesic,09-09-2023,1
+745,Dr. Gupta,Dermatologist,Chennai,38,Female,Paracetamol 500mg,Analgesic,14-07-2023,4
+746,Dr. Iyer,General Physician,Hyderabad,38,Male,Atorvastatin 10mg,Cardiac,08-03-2024,5
+747,Dr. Verma,Dermatologist,Kolkata,65,Male,Losartan 50mg,Cardiac,03-04-2023,2
+748,Dr. Gupta,Orthopedic,Delhi,42,Female,Azithromycin 500mg,Antibiotic,28-02-2024,1
+749,Dr. Verma,Dermatologist,Chennai,12,Female,Cetirizine 10mg,Anti-Allergic,10-04-2024,3
+750,Dr. Singh,Pediatrician,Kolkata,15,Female,Amoxicillin 250mg,Antibiotic,04-04-2023,3
+751,Dr. Sharma,Orthopedic,Kolkata,79,Male,Azithromycin 500mg,Antibiotic,07-06-2024,4
+752,Dr. Gupta,Dermatologist,Mumbai,73,Male,Atorvastatin 10mg,Cardiac,10-12-2023,2
+753,Dr. Verma,Pediatrician,Kolkata,40,Female,Paracetamol 500mg,Analgesic,05-03-2024,4
+754,Dr. Iyer,Pediatrician,Mumbai,1,Female,Atorvastatin 10mg,Cardiac,27-07-2023,1
+755,Dr. Khan,Dermatologist,Hyderabad,31,Male,Paracetamol 500mg,Analgesic,20-05-2024,5
+756,Dr. Singh,Dermatologist,Hyderabad,11,Male,Azithromycin 500mg,Antibiotic,28-03-2024,2
+757,Dr. Gupta,General Physician,Chennai,24,Male,Cetirizine 10mg,Anti-Allergic,20-02-2023,1
+758,Dr. Singh,General Physician,Mumbai,86,Female,Atorvastatin 10mg,Cardiac,03-02-2023,3
+759,Dr. Sharma,Cardiologist,Mumbai,21,Female,Azithromycin 500mg,Antibiotic,02-07-2023,5
+760,Dr. Singh,Orthopedic,Chennai,75,Female,Atorvastatin 10mg,Cardiac,11-04-2024,1
+761,Dr. Sharma,General Physician,Bengaluru,9,Female,Omeprazole 20mg,Gastro,24-01-2024,5
+762,Dr. Sharma,General Physician,Hyderabad,89,Female,Atorvastatin 10mg,Cardiac,05-05-2023,3
+763,Dr. Gupta,Dermatologist,Chennai,79,Male,Cetirizine 10mg,Anti-Allergic,03-08-2023,1
+764,Dr. Gupta,Orthopedic,Mumbai,55,Female,Losartan 50mg,Cardiac,22-10-2023,3
+765,Dr. Gupta,Orthopedic,Chennai,79,Female,Omeprazole 20mg,Gastro,13-05-2023,5
+766,Dr. Singh,Dermatologist,Hyderabad,38,Male,Atorvastatin 10mg,Cardiac,27-08-2023,1
+767,Dr. Sharma,Cardiologist,Hyderabad,79,Female,Amoxicillin 250mg,Antibiotic,01-08-2023,4
+768,Dr. Sharma,General Physician,Bengaluru,82,Male,Cetirizine 10mg,Anti-Allergic,12-01-2023,3
+769,Dr. Iyer,Cardiologist,Bengaluru,71,Female,Metformin 500mg,Anti-Diabetic,02-06-2024,1
+770,Dr. Sharma,General Physician,Bengaluru,79,Male,Azithromycin 500mg,Antibiotic,05-08-2024,2
+771,Dr. Verma,General Physician,Bengaluru,5,Male,Losartan 50mg,Cardiac,30-04-2024,4
+772,Dr. Verma,Dermatologist,Chennai,53,Male,Omeprazole 20mg,Gastro,18-04-2024,5
+773,Dr. Iyer,Orthopedic,Kolkata,69,Male,Omeprazole 20mg,Gastro,22-07-2024,2
+774,Dr. Gupta,General Physician,Bengaluru,36,Male,Amoxicillin 250mg,Antibiotic,02-06-2023,3
+775,Dr. Khan,Orthopedic,Delhi,77,Male,Azithromycin 500mg,Antibiotic,11-07-2023,3
+776,Dr. Singh,General Physician,Kolkata,53,Male,Paracetamol 500mg,Analgesic,06-10-2023,4
+777,Dr. Verma,General Physician,Hyderabad,68,Female,Metformin 500mg,Anti-Diabetic,10-08-2023,2
+778,Dr. Sharma,General Physician,Mumbai,57,Male,Cetirizine 10mg,Anti-Allergic,05-04-2023,4
+779,Dr. Gupta,Pediatrician,Delhi,68,Female,Omeprazole 20mg,Gastro,10-05-2024,3
+780,Dr. Verma,Cardiologist,Chennai,5,Female,Atorvastatin 10mg,Cardiac,30-07-2023,4
+781,Dr. Singh,Orthopedic,Mumbai,6,Male,Paracetamol 500mg,Analgesic,15-11-2023,3
+782,Dr. Khan,Cardiologist,Mumbai,74,Female,Metformin 500mg,Anti-Diabetic,24-01-2023,2
+783,Dr. Iyer,Pediatrician,Delhi,69,Female,Metformin 500mg,Anti-Diabetic,11-10-2023,4
+784,Dr. Singh,Cardiologist,Bengaluru,36,Male,Atorvastatin 10mg,Cardiac,11-06-2023,1
+785,Dr. Gupta,Orthopedic,Chennai,70,Female,Amoxicillin 250mg,Antibiotic,31-07-2023,5
+786,Dr. Iyer,General Physician,Delhi,32,Male,Metformin 500mg,Anti-Diabetic,10-08-2024,1
+787,Dr. Iyer,Orthopedic,Bengaluru,17,Male,Losartan 50mg,Cardiac,21-02-2023,4
+788,Dr. Singh,Cardiologist,Mumbai,12,Female,Azithromycin 500mg,Antibiotic,25-02-2023,4
+789,Dr. Verma,Orthopedic,Chennai,40,Female,Losartan 50mg,Cardiac,31-12-2023,2
+790,Dr. Singh,Orthopedic,Mumbai,17,Male,Losartan 50mg,Cardiac,04-08-2024,4
+791,Dr. Sharma,Dermatologist,Bengaluru,30,Male,Losartan 50mg,Cardiac,26-04-2024,2
+792,Dr. Gupta,General Physician,Bengaluru,90,Female,Azithromycin 500mg,Antibiotic,07-07-2023,3
+793,Dr. Khan,Dermatologist,Mumbai,15,Female,Amoxicillin 250mg,Antibiotic,01-05-2024,4
+794,Dr. Khan,Pediatrician,Bengaluru,17,Male,Omeprazole 20mg,Gastro,11-08-2024,4
+795,Dr. Singh,Cardiologist,Bengaluru,69,Female,Amoxicillin 250mg,Antibiotic,06-11-2023,4
+796,Dr. Gupta,Dermatologist,Delhi,21,Female,Cetirizine 10mg,Anti-Allergic,15-07-2024,4
+797,Dr. Sharma,General Physician,Delhi,73,Female,Azithromycin 500mg,Antibiotic,21-03-2024,5
+798,Dr. Singh,Pediatrician,Delhi,63,Male,Amoxicillin 250mg,Antibiotic,10-08-2024,5
+799,Dr. Gupta,Dermatologist,Bengaluru,23,Female,Amoxicillin 250mg,Antibiotic,31-03-2024,4
+800,Dr. Sharma,Orthopedic,Mumbai,64,Male,Azithromycin 500mg,Antibiotic,02-12-2023,1
+801,Dr. Verma,Pediatrician,Chennai,85,Male,Paracetamol 500mg,Analgesic,31-05-2023,4
+802,Dr. Gupta,General Physician,Hyderabad,27,Female,Losartan 50mg,Cardiac,20-07-2023,3
+803,Dr. Gupta,General Physician,Hyderabad,75,Male,Omeprazole 20mg,Gastro,02-04-2023,5
+804,Dr. Gupta,Dermatologist,Delhi,48,Male,Metformin 500mg,Anti-Diabetic,05-03-2023,1
+805,Dr. Singh,Orthopedic,Bengaluru,4,Male,Amoxicillin 250mg,Antibiotic,16-10-2023,4
+806,Dr. Singh,Orthopedic,Hyderabad,52,Female,Omeprazole 20mg,Gastro,27-01-2024,4
+807,Dr. Gupta,Pediatrician,Kolkata,18,Male,Atorvastatin 10mg,Cardiac,01-05-2024,5
+808,Dr. Khan,General Physician,Hyderabad,86,Male,Atorvastatin 10mg,Cardiac,23-10-2023,2
+809,Dr. Sharma,Cardiologist,Kolkata,63,Female,Paracetamol 500mg,Analgesic,28-05-2023,2
+810,Dr. Sharma,Pediatrician,Kolkata,90,Female,Azithromycin 500mg,Antibiotic,11-04-2024,5
+811,Dr. Verma,Dermatologist,Chennai,58,Female,Azithromycin 500mg,Antibiotic,19-07-2024,3
+812,Dr. Verma,Pediatrician,Hyderabad,64,Male,Paracetamol 500mg,Analgesic,14-08-2024,5
+813,Dr. Iyer,Dermatologist,Chennai,5,Female,Omeprazole 20mg,Gastro,04-02-2023,3
+814,Dr. Sharma,Orthopedic,Hyderabad,68,Female,Amoxicillin 250mg,Antibiotic,26-05-2023,4
+815,Dr. Gupta,Cardiologist,Chennai,61,Male,Amoxicillin 250mg,Antibiotic,09-09-2023,5
+816,Dr. Gupta,General Physician,Chennai,69,Male,Paracetamol 500mg,Analgesic,18-12-2023,4
+817,Dr. Khan,Orthopedic,Hyderabad,46,Female,Omeprazole 20mg,Gastro,07-03-2024,3
+818,Dr. Verma,Cardiologist,Kolkata,34,Male,Metformin 500mg,Anti-Diabetic,31-07-2024,4
+819,Dr. Gupta,Pediatrician,Chennai,80,Male,Paracetamol 500mg,Analgesic,26-10-2023,3
+820,Dr. Khan,Cardiologist,Delhi,33,Male,Amoxicillin 250mg,Antibiotic,12-10-2023,5
+821,Dr. Iyer,General Physician,Bengaluru,78,Male,Paracetamol 500mg,Analgesic,25-04-2023,5
+822,Dr. Singh,Pediatrician,Kolkata,23,Female,Losartan 50mg,Cardiac,14-01-2024,2
+823,Dr. Khan,Pediatrician,Chennai,11,Male,Paracetamol 500mg,Analgesic,18-12-2023,5
+824,Dr. Verma,Dermatologist,Hyderabad,85,Female,Azithromycin 500mg,Antibiotic,01-09-2023,2
+825,Dr. Verma,Orthopedic,Kolkata,83,Female,Omeprazole 20mg,Gastro,25-02-2023,1
+826,Dr. Sharma,Pediatrician,Hyderabad,39,Female,Azithromycin 500mg,Antibiotic,02-05-2024,5
+827,Dr. Verma,Dermatologist,Kolkata,34,Male,Azithromycin 500mg,Antibiotic,30-04-2024,5
+828,Dr. Khan,Cardiologist,Bengaluru,87,Female,Losartan 50mg,Cardiac,27-01-2024,5
+829,Dr. Singh,Cardiologist,Mumbai,79,Female,Omeprazole 20mg,Gastro,18-03-2024,3
+830,Dr. Iyer,General Physician,Mumbai,51,Female,Metformin 500mg,Anti-Diabetic,21-08-2024,2
+831,Dr. Singh,Orthopedic,Delhi,41,Male,Omeprazole 20mg,Gastro,04-07-2023,1
+832,Dr. Sharma,Cardiologist,Hyderabad,14,Female,Amoxicillin 250mg,Antibiotic,21-06-2024,3
+833,Dr. Verma,General Physician,Bengaluru,4,Male,Cetirizine 10mg,Anti-Allergic,04-02-2023,1
+834,Dr. Gupta,Pediatrician,Chennai,12,Male,Amoxicillin 250mg,Antibiotic,03-05-2023,4
+835,Dr. Singh,Orthopedic,Delhi,33,Female,Amoxicillin 250mg,Antibiotic,08-07-2023,4
+836,Dr. Singh,Cardiologist,Kolkata,55,Female,Losartan 50mg,Cardiac,11-10-2023,3
+837,Dr. Verma,Cardiologist,Bengaluru,50,Female,Paracetamol 500mg,Analgesic,27-01-2024,1
+838,Dr. Iyer,General Physician,Delhi,63,Male,Losartan 50mg,Cardiac,13-03-2023,5
+839,Dr. Khan,Pediatrician,Kolkata,19,Female,Losartan 50mg,Cardiac,22-04-2023,2
+840,Dr. Gupta,Cardiologist,Hyderabad,5,Male,Metformin 500mg,Anti-Diabetic,16-04-2023,1
+841,Dr. Gupta,General Physician,Hyderabad,20,Male,Paracetamol 500mg,Analgesic,24-05-2024,1
+842,Dr. Singh,Dermatologist,Bengaluru,51,Male,Atorvastatin 10mg,Cardiac,04-12-2023,5
+843,Dr. Singh,Dermatologist,Hyderabad,9,Male,Azithromycin 500mg,Antibiotic,18-02-2024,1
+844,Dr. Khan,Dermatologist,Mumbai,88,Female,Omeprazole 20mg,Gastro,08-12-2023,4
+845,Dr. Sharma,Cardiologist,Bengaluru,59,Female,Omeprazole 20mg,Gastro,24-03-2023,2
+846,Dr. Verma,Orthopedic,Mumbai,39,Female,Azithromycin 500mg,Antibiotic,15-07-2023,1
+847,Dr. Singh,General Physician,Hyderabad,25,Male,Amoxicillin 250mg,Antibiotic,24-03-2024,1
+848,Dr. Verma,Cardiologist,Kolkata,50,Male,Cetirizine 10mg,Anti-Allergic,15-05-2024,5
+849,Dr. Singh,General Physician,Hyderabad,5,Female,Losartan 50mg,Cardiac,17-01-2023,1
+850,Dr. Iyer,Cardiologist,Hyderabad,84,Female,Amoxicillin 250mg,Antibiotic,05-08-2023,5
+851,Dr. Verma,Orthopedic,Delhi,19,Female,Amoxicillin 250mg,Antibiotic,07-02-2023,1
+852,Dr. Khan,Orthopedic,Mumbai,2,Male,Cetirizine 10mg,Anti-Allergic,14-05-2023,1
+853,Dr. Iyer,Cardiologist,Hyderabad,14,Male,Atorvastatin 10mg,Cardiac,07-03-2023,4
+854,Dr. Gupta,Orthopedic,Delhi,55,Female,Amoxicillin 250mg,Antibiotic,27-07-2023,4
+855,Dr. Iyer,Cardiologist,Kolkata,28,Male,Atorvastatin 10mg,Cardiac,26-11-2023,5
+856,Dr. Verma,General Physician,Mumbai,19,Female,Amoxicillin 250mg,Antibiotic,08-10-2023,2
+857,Dr. Singh,General Physician,Chennai,32,Male,Atorvastatin 10mg,Cardiac,25-03-2024,2
+858,Dr. Sharma,Orthopedic,Hyderabad,63,Male,Atorvastatin 10mg,Cardiac,17-01-2023,1
+859,Dr. Sharma,Pediatrician,Mumbai,89,Female,Metformin 500mg,Anti-Diabetic,02-03-2024,2
+860,Dr. Verma,Pediatrician,Kolkata,58,Female,Metformin 500mg,Anti-Diabetic,19-06-2024,2
+861,Dr. Verma,Orthopedic,Kolkata,64,Male,Paracetamol 500mg,Analgesic,04-07-2023,3
+862,Dr. Iyer,Dermatologist,Mumbai,16,Male,Cetirizine 10mg,Anti-Allergic,16-07-2023,5
+863,Dr. Iyer,Orthopedic,Chennai,81,Male,Cetirizine 10mg,Anti-Allergic,20-04-2024,3
+864,Dr. Sharma,Pediatrician,Mumbai,64,Male,Atorvastatin 10mg,Cardiac,30-04-2024,2
+865,Dr. Singh,Cardiologist,Mumbai,27,Female,Omeprazole 20mg,Gastro,19-10-2023,3
+866,Dr. Iyer,Orthopedic,Hyderabad,7,Male,Paracetamol 500mg,Analgesic,17-04-2023,2
+867,Dr. Sharma,Dermatologist,Chennai,31,Female,Amoxicillin 250mg,Antibiotic,14-03-2023,5
+868,Dr. Gupta,General Physician,Hyderabad,30,Male,Cetirizine 10mg,Anti-Allergic,30-11-2023,3
+869,Dr. Verma,Cardiologist,Delhi,49,Male,Azithromycin 500mg,Antibiotic,24-07-2023,1
+870,Dr. Khan,Orthopedic,Hyderabad,19,Male,Paracetamol 500mg,Analgesic,22-03-2024,5
+871,Dr. Khan,Pediatrician,Hyderabad,59,Male,Omeprazole 20mg,Gastro,20-05-2023,3
+872,Dr. Iyer,Pediatrician,Bengaluru,89,Male,Atorvastatin 10mg,Cardiac,02-02-2023,3
+873,Dr. Verma,Cardiologist,Hyderabad,22,Female,Losartan 50mg,Cardiac,04-03-2024,2
+874,Dr. Iyer,Orthopedic,Delhi,71,Male,Atorvastatin 10mg,Cardiac,14-08-2024,1
+875,Dr. Khan,Orthopedic,Hyderabad,60,Female,Cetirizine 10mg,Anti-Allergic,29-04-2024,1
+876,Dr. Singh,Dermatologist,Kolkata,42,Female,Cetirizine 10mg,Anti-Allergic,11-09-2023,5
+877,Dr. Verma,Orthopedic,Delhi,6,Male,Paracetamol 500mg,Analgesic,03-03-2024,4
+878,Dr. Singh,Orthopedic,Mumbai,51,Female,Azithromycin 500mg,Antibiotic,27-06-2024,1
+879,Dr. Khan,Dermatologist,Delhi,2,Female,Amoxicillin 250mg,Antibiotic,25-07-2024,2
+880,Dr. Verma,General Physician,Bengaluru,3,Female,Cetirizine 10mg,Anti-Allergic,03-04-2023,3
+881,Dr. Verma,Dermatologist,Chennai,60,Male,Paracetamol 500mg,Analgesic,10-04-2024,4
+882,Dr. Verma,General Physician,Kolkata,81,Male,Losartan 50mg,Cardiac,02-01-2023,4
+883,Dr. Singh,General Physician,Chennai,55,Female,Paracetamol 500mg,Analgesic,31-10-2023,5
+884,Dr. Gupta,Orthopedic,Delhi,8,Female,Amoxicillin 250mg,Antibiotic,10-12-2023,1
+885,Dr. Sharma,Dermatologist,Bengaluru,47,Female,Losartan 50mg,Cardiac,11-02-2023,2
+886,Dr. Singh,Orthopedic,Kolkata,27,Male,Amoxicillin 250mg,Antibiotic,28-07-2024,3
+887,Dr. Verma,Orthopedic,Mumbai,90,Male,Losartan 50mg,Cardiac,17-08-2024,2
+888,Dr. Iyer,General Physician,Bengaluru,7,Male,Azithromycin 500mg,Antibiotic,11-10-2023,3
+889,Dr. Iyer,Dermatologist,Hyderabad,69,Female,Amoxicillin 250mg,Antibiotic,26-04-2024,4
+890,Dr. Gupta,General Physician,Kolkata,59,Male,Amoxicillin 250mg,Antibiotic,12-07-2023,1
+891,Dr. Khan,Pediatrician,Bengaluru,22,Female,Amoxicillin 250mg,Antibiotic,22-04-2023,1
+892,Dr. Singh,Pediatrician,Hyderabad,67,Male,Atorvastatin 10mg,Cardiac,29-07-2023,3
+893,Dr. Khan,Orthopedic,Delhi,54,Female,Losartan 50mg,Cardiac,22-12-2023,1
+894,Dr. Iyer,Pediatrician,Mumbai,67,Female,Paracetamol 500mg,Analgesic,26-08-2023,4
+895,Dr. Gupta,General Physician,Kolkata,76,Female,Omeprazole 20mg,Gastro,12-05-2024,4
+896,Dr. Iyer,Orthopedic,Delhi,34,Male,Metformin 500mg,Anti-Diabetic,25-06-2023,4
+897,Dr. Iyer,General Physician,Mumbai,37,Female,Atorvastatin 10mg,Cardiac,28-12-2023,2
+898,Dr. Gupta,Pediatrician,Kolkata,23,Male,Metformin 500mg,Anti-Diabetic,06-07-2023,2
+899,Dr. Verma,Cardiologist,Mumbai,17,Female,Omeprazole 20mg,Gastro,11-08-2024,3
+900,Dr. Iyer,Pediatrician,Delhi,45,Male,Paracetamol 500mg,Analgesic,21-11-2023,3
+901,Dr. Khan,Orthopedic,Delhi,4,Female,Metformin 500mg,Anti-Diabetic,05-05-2023,4
+902,Dr. Verma,Dermatologist,Bengaluru,70,Female,Atorvastatin 10mg,Cardiac,05-01-2023,3
+903,Dr. Khan,General Physician,Chennai,57,Female,Atorvastatin 10mg,Cardiac,01-08-2024,1
+904,Dr. Singh,Dermatologist,Mumbai,15,Female,Atorvastatin 10mg,Cardiac,18-07-2024,1
+905,Dr. Khan,Orthopedic,Delhi,12,Female,Losartan 50mg,Cardiac,01-01-2024,1
+906,Dr. Gupta,Pediatrician,Chennai,26,Male,Cetirizine 10mg,Anti-Allergic,12-10-2023,1
+907,Dr. Gupta,Dermatologist,Kolkata,51,Male,Amoxicillin 250mg,Antibiotic,08-06-2024,4
+908,Dr. Iyer,Orthopedic,Chennai,51,Male,Paracetamol 500mg,Analgesic,05-01-2024,4
+909,Dr. Iyer,Dermatologist,Bengaluru,45,Female,Paracetamol 500mg,Analgesic,19-10-2023,3
+910,Dr. Khan,Orthopedic,Mumbai,54,Female,Cetirizine 10mg,Anti-Allergic,30-03-2024,3
+911,Dr. Verma,Dermatologist,Kolkata,76,Male,Azithromycin 500mg,Antibiotic,23-05-2023,2
+912,Dr. Verma,General Physician,Hyderabad,76,Female,Omeprazole 20mg,Gastro,09-03-2023,1
+913,Dr. Sharma,Dermatologist,Kolkata,23,Female,Metformin 500mg,Anti-Diabetic,29-02-2024,5
+914,Dr. Verma,Pediatrician,Delhi,71,Female,Azithromycin 500mg,Antibiotic,24-10-2023,1
+915,Dr. Iyer,Orthopedic,Bengaluru,60,Male,Losartan 50mg,Cardiac,26-07-2024,1
+916,Dr. Sharma,Pediatrician,Bengaluru,16,Female,Metformin 500mg,Anti-Diabetic,28-04-2024,4
+917,Dr. Verma,Dermatologist,Kolkata,16,Female,Cetirizine 10mg,Anti-Allergic,30-01-2023,4
+918,Dr. Sharma,Orthopedic,Kolkata,62,Female,Omeprazole 20mg,Gastro,18-08-2024,3
+919,Dr. Singh,Dermatologist,Kolkata,66,Male,Amoxicillin 250mg,Antibiotic,18-01-2024,3
+920,Dr. Verma,Orthopedic,Mumbai,60,Male,Atorvastatin 10mg,Cardiac,24-11-2023,3
+921,Dr. Verma,Cardiologist,Bengaluru,82,Female,Omeprazole 20mg,Gastro,05-03-2024,1
+922,Dr. Iyer,General Physician,Chennai,25,Male,Amoxicillin 250mg,Antibiotic,10-06-2024,1
+923,Dr. Gupta,Pediatrician,Chennai,88,Female,Omeprazole 20mg,Gastro,20-11-2023,3
+924,Dr. Singh,General Physician,Mumbai,2,Male,Omeprazole 20mg,Gastro,28-05-2023,5
+925,Dr. Iyer,General Physician,Hyderabad,21,Male,Azithromycin 500mg,Antibiotic,15-12-2023,2
+926,Dr. Verma,Orthopedic,Delhi,79,Male,Cetirizine 10mg,Anti-Allergic,26-07-2024,4
+927,Dr. Khan,Cardiologist,Mumbai,62,Female,Atorvastatin 10mg,Cardiac,18-01-2023,3
+928,Dr. Singh,General Physician,Delhi,44,Male,Losartan 50mg,Cardiac,19-06-2024,3
+929,Dr. Sharma,Cardiologist,Delhi,89,Male,Atorvastatin 10mg,Cardiac,26-05-2023,3
+930,Dr. Verma,Pediatrician,Delhi,89,Male,Amoxicillin 250mg,Antibiotic,11-03-2024,1
+931,Dr. Sharma,Dermatologist,Hyderabad,14,Male,Paracetamol 500mg,Analgesic,21-07-2023,5
+932,Dr. Gupta,Cardiologist,Hyderabad,6,Male,Amoxicillin 250mg,Antibiotic,17-09-2023,3
+933,Dr. Singh,Cardiologist,Mumbai,76,Male,Amoxicillin 250mg,Antibiotic,30-07-2023,2
+934,Dr. Singh,General Physician,Mumbai,36,Female,Amoxicillin 250mg,Antibiotic,30-05-2023,3
+935,Dr. Verma,Orthopedic,Kolkata,73,Male,Cetirizine 10mg,Anti-Allergic,01-06-2024,1
+936,Dr. Gupta,Cardiologist,Chennai,37,Male,Cetirizine 10mg,Anti-Allergic,16-07-2023,5
+937,Dr. Sharma,Cardiologist,Delhi,90,Male,Losartan 50mg,Cardiac,11-01-2024,4
+938,Dr. Singh,Cardiologist,Delhi,55,Male,Omeprazole 20mg,Gastro,24-01-2024,5
+939,Dr. Verma,Dermatologist,Mumbai,60,Male,Omeprazole 20mg,Gastro,07-05-2023,5
+940,Dr. Verma,Dermatologist,Bengaluru,6,Male,Metformin 500mg,Anti-Diabetic,24-07-2024,3
+941,Dr. Khan,Cardiologist,Hyderabad,77,Female,Metformin 500mg,Anti-Diabetic,12-04-2024,4
+942,Dr. Verma,Orthopedic,Hyderabad,25,Male,Metformin 500mg,Anti-Diabetic,14-03-2024,4
+943,Dr. Singh,General Physician,Delhi,87,Male,Paracetamol 500mg,Analgesic,18-05-2024,4
+944,Dr. Khan,Orthopedic,Kolkata,19,Female,Amoxicillin 250mg,Antibiotic,03-05-2023,4
+945,Dr. Singh,Orthopedic,Mumbai,47,Male,Atorvastatin 10mg,Cardiac,08-03-2023,3
+946,Dr. Verma,Orthopedic,Hyderabad,55,Female,Amoxicillin 250mg,Antibiotic,27-08-2023,3
+947,Dr. Singh,Orthopedic,Chennai,46,Female,Metformin 500mg,Anti-Diabetic,14-02-2024,5
+948,Dr. Khan,Dermatologist,Chennai,59,Male,Metformin 500mg,Anti-Diabetic,31-05-2023,1
+949,Dr. Iyer,Dermatologist,Hyderabad,4,Male,Cetirizine 10mg,Anti-Allergic,18-05-2023,1
+950,Dr. Sharma,Dermatologist,Kolkata,49,Female,Paracetamol 500mg,Analgesic,03-07-2023,2
+951,Dr. Iyer,Orthopedic,Chennai,85,Female,Amoxicillin 250mg,Antibiotic,20-03-2023,4
+952,Dr. Verma,General Physician,Kolkata,65,Female,Losartan 50mg,Cardiac,17-05-2024,5
+953,Dr. Iyer,Orthopedic,Chennai,56,Male,Paracetamol 500mg,Analgesic,02-02-2023,4
+954,Dr. Khan,General Physician,Hyderabad,5,Male,Losartan 50mg,Cardiac,15-04-2024,2
+955,Dr. Gupta,General Physician,Kolkata,56,Male,Atorvastatin 10mg,Cardiac,18-05-2024,3
+956,Dr. Singh,Dermatologist,Hyderabad,87,Female,Amoxicillin 250mg,Antibiotic,05-08-2024,5
+957,Dr. Singh,Orthopedic,Chennai,72,Male,Losartan 50mg,Cardiac,02-05-2024,5
+958,Dr. Sharma,Dermatologist,Bengaluru,79,Female,Losartan 50mg,Cardiac,22-01-2024,3
+959,Dr. Iyer,Cardiologist,Mumbai,47,Female,Paracetamol 500mg,Analgesic,12-05-2023,5
+960,Dr. Sharma,General Physician,Hyderabad,45,Female,Amoxicillin 250mg,Antibiotic,14-03-2024,4
+961,Dr. Iyer,Cardiologist,Kolkata,31,Female,Cetirizine 10mg,Anti-Allergic,11-09-2023,5
+962,Dr. Sharma,Cardiologist,Bengaluru,22,Male,Amoxicillin 250mg,Antibiotic,12-12-2023,5
+963,Dr. Iyer,Cardiologist,Hyderabad,66,Female,Azithromycin 500mg,Antibiotic,04-08-2024,3
+964,Dr. Sharma,Dermatologist,Chennai,49,Female,Paracetamol 500mg,Analgesic,21-11-2023,3
+965,Dr. Gupta,Cardiologist,Hyderabad,44,Female,Amoxicillin 250mg,Antibiotic,30-07-2023,5
+966,Dr. Singh,General Physician,Delhi,56,Male,Metformin 500mg,Anti-Diabetic,08-01-2024,4
+967,Dr. Singh,Cardiologist,Chennai,34,Male,Cetirizine 10mg,Anti-Allergic,22-10-2023,3
+968,Dr. Gupta,Dermatologist,Delhi,13,Female,Amoxicillin 250mg,Antibiotic,15-08-2024,3
+969,Dr. Sharma,Orthopedic,Chennai,27,Female,Losartan 50mg,Cardiac,13-03-2024,1
+970,Dr. Singh,General Physician,Chennai,85,Female,Metformin 500mg,Anti-Diabetic,19-03-2024,2
+971,Dr. Khan,Dermatologist,Bengaluru,24,Male,Losartan 50mg,Cardiac,14-07-2024,5
+972,Dr. Verma,Orthopedic,Hyderabad,35,Female,Cetirizine 10mg,Anti-Allergic,23-04-2024,5
+973,Dr. Singh,Cardiologist,Chennai,60,Male,Cetirizine 10mg,Anti-Allergic,09-01-2024,2
+974,Dr. Verma,General Physician,Hyderabad,9,Male,Azithromycin 500mg,Antibiotic,23-11-2023,4
+975,Dr. Iyer,General Physician,Kolkata,88,Male,Atorvastatin 10mg,Cardiac,20-09-2023,4
+976,Dr. Verma,Cardiologist,Delhi,32,Female,Cetirizine 10mg,Anti-Allergic,29-01-2023,4
+977,Dr. Khan,Orthopedic,Hyderabad,26,Male,Azithromycin 500mg,Antibiotic,07-02-2023,3
+978,Dr. Verma,Cardiologist,Bengaluru,23,Male,Metformin 500mg,Anti-Diabetic,17-07-2024,4
+979,Dr. Sharma,Cardiologist,Mumbai,9,Female,Omeprazole 20mg,Gastro,02-11-2023,3
+980,Dr. Singh,Cardiologist,Hyderabad,15,Male,Atorvastatin 10mg,Cardiac,30-08-2023,5
+981,Dr. Singh,Orthopedic,Chennai,12,Male,Metformin 500mg,Anti-Diabetic,23-05-2024,5
+982,Dr. Sharma,General Physician,Bengaluru,55,Male,Azithromycin 500mg,Antibiotic,30-08-2023,2
+983,Dr. Sharma,Pediatrician,Delhi,53,Female,Metformin 500mg,Anti-Diabetic,26-03-2024,5
+984,Dr. Sharma,Dermatologist,Chennai,41,Female,Omeprazole 20mg,Gastro,26-04-2023,4
+985,Dr. Singh,Pediatrician,Bengaluru,61,Female,Atorvastatin 10mg,Cardiac,07-01-2024,3
+986,Dr. Sharma,Orthopedic,Mumbai,33,Female,Paracetamol 500mg,Analgesic,03-09-2023,3
+987,Dr. Singh,General Physician,Kolkata,31,Female,Amoxicillin 250mg,Antibiotic,01-07-2024,4
+988,Dr. Sharma,Dermatologist,Bengaluru,31,Female,Metformin 500mg,Anti-Diabetic,03-04-2023,2
+989,Dr. Verma,Dermatologist,Kolkata,5,Female,Omeprazole 20mg,Gastro,21-02-2024,1
+990,Dr. Khan,Dermatologist,Kolkata,55,Male,Azithromycin 500mg,Antibiotic,07-12-2023,2
+991,Dr. Singh,General Physician,Chennai,54,Female,Amoxicillin 250mg,Antibiotic,27-12-2023,4
+992,Dr. Singh,Cardiologist,Mumbai,83,Male,Atorvastatin 10mg,Cardiac,30-03-2024,1
+993,Dr. Khan,Pediatrician,Kolkata,74,Male,Metformin 500mg,Anti-Diabetic,18-11-2023,1
+994,Dr. Verma,Pediatrician,Chennai,41,Female,Atorvastatin 10mg,Cardiac,25-02-2024,4
+995,Dr. Singh,Pediatrician,Bengaluru,37,Male,Atorvastatin 10mg,Cardiac,02-12-2023,1
+996,Dr. Khan,General Physician,Delhi,74,Male,Azithromycin 500mg,Antibiotic,22-01-2024,1
+997,Dr. Sharma,Orthopedic,Kolkata,60,Male,Cetirizine 10mg,Anti-Allergic,02-04-2023,3
+998,Dr. Singh,Pediatrician,Mumbai,77,Female,Azithromycin 500mg,Antibiotic,15-03-2024,2
+999,Dr. Sharma,General Physician,Delhi,68,Female,Amoxicillin 250mg,Antibiotic,15-01-2023,4
+1000,Dr. Singh,Dermatologist,Mumbai,25,Female,Cetirizine 10mg,Anti-Allergic,28-07-2023,3
